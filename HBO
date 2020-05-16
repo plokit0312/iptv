@@ -1,95 +1,1827 @@
 #EXTM3U
-#EXTINF:0,HBO 2 HD
-http://maxptv.ddns.net:25461/live/MA020/0706/132.ts
-#EXTINF:0,HBO 2 SD
-http://maxptv.ddns.net:25461/live/MA020/0706/131.ts
-#EXTINF:0,HBO Family HD
-http://maxptv.ddns.net:25461/live/MA020/0706/130.ts
-#EXTINF:0,HBO Family SD
-http://maxptv.ddns.net:25461/live/MA020/0706/129.ts
-#EXTINF:0,HBO HD
-http://maxptv.ddns.net:25461/live/MA020/0706/128.ts
-#EXTINF:0,HBO Plus *e HD
-http://maxptv.ddns.net:25461/live/MA020/0706/127.ts
-#EXTINF:0,HBO Plus *e SD
-http://maxptv.ddns.net:25461/live/MA020/0706/126.ts
-#EXTINF:0,HBO Plus HD
-http://maxptv.ddns.net:25461/live/MA020/0706/125.ts
-#EXTINF:0,HBO Plus SD
-http://maxptv.ddns.net:25461/live/MA020/0706/124.ts
-#EXTINF:0,HBO SD
-http://maxptv.ddns.net:25461/live/MA020/0706/123.ts
-#EXTINF:0,HBO Signature HD
-http://maxptv.ddns.net:25461/live/MA020/0706/122.ts
-#EXTINF:0,HBO Signature SD
-http://maxptv.ddns.net:25461/live/MA020/0706/121.ts
-#EXTINF:0,US: HBO
-http://195.154.220.71:33 33/Metege2/Skype15082018/913
-#EXTINF:0,US: HBO HD
-http://195.154.220.71:33 33/Metege2/Skype15082018/1574
-#EXTINF:0,CA: HBO 1
-http://195.154.220.71:33 33/Metege2/Skype15082018/2662
-#EXTINF:0,CA: HBO 2
-http://195.154.220.71:33 33/Metege2/Skype15082018/2661
-#EXTINF:0,HBO FHD
-http://infinity.ddns.me:25461/Nestor4500/Nestor10/1528
-#EXTINF:0,HBO 2 FHD
-http://infinity.ddns.me:25461/Nestor4500/Nestor10/1527
-#EXTINF:0,HBO Family FHD
-http://infinity.ddns.me:25461/Nestor4500/Nestor10/1529
-#EXTINF:0,HBO Plus FHD
-http://infinity.ddns.me:25461/Nestor4500/Nestor10/1526
-#EXTINF:0,HBO Signature  FHD
-http://infinity.ddns.me:25461/Nestor4500/Nestor10/8953
-#EXTINF:0,HBO
-http://infinity.ddns.me:25461/Nestor4500/Nestor10/3745
-#EXTINF:0,HBO HD
-http://infinity.ddns.me:25461/Nestor4500/Nestor10/1170
-#EXTINF:0,HBO 2
-http://infinity.ddns.me:25461/Nestor4500/Nestor10/12802
-#EXTINF:0,HBO 2 HD
-http://infinity.ddns.me:25461/Nestor4500/Nestor10/1166
-#EXTINF:0,HBO Family
-http://infinity.ddns.me:25461/Nestor4500/Nestor10/3747
-#EXTINF:0,HBO Family HD
-http://infinity.ddns.me:25461/Nestor4500/Nestor10/1160
-#EXTINF:0,HBO Plus
-http://infinity.ddns.me:25461/Nestor4500/Nestor10/3744
-#EXTINF:0,HBO Plus HD
-http://infinity.ddns.me:25461/Nestor4500/Nestor10/1164
-#EXTINF:0,HBO Signature
-http://infinity.ddns.me:25461/Nestor4500/Nestor10/1159
-#EXTINF:0,HBO Signature HD
-http://infinity.ddns.me:25461/Nestor4500/Nestor10/1158
-#EXTINF:0,USA: HBO 2 EAST UHD
-http://xxultraxx.com:80/tvlink531/205677/23811
-#EXTINF:0,USA: HBO Comedy
-http://xxultraxx.com:80/tvlink531/205677/23806
-#EXTINF:0,USA: HBO COMEDY UHD
-http://xxultraxx.com:80/tvlink531/205677/23810
-#EXTINF:0,USA: HBO East
-http://xxultraxx.com:80/tvlink531/205677/23802
-#EXTINF:0,USA: HBO East UHD
-http://xxultraxx.com:80/tvlink531/205677/23809
-#EXTINF:0,USA: HBO Family
-http://xxultraxx.com:80/tvlink531/205677/23805
-#EXTINF:0,USA: HBO FAMILY UHD
-http://xxultraxx.com:80/tvlink531/205677/23808
-#EXTINF:0,USA: HBO SIGNATURE
-http://xxultraxx.com:80/tvlink531/205677/23804
-#EXTINF:0,USA: HBO SIGNATURE UHD
-http://xxultraxx.com:80/tvlink531/205677/23801
-#EXTINF:0,USA: HBO Zone
-http://xxultraxx.com:80/tvlink531/205677/23803
-#EXTINF:0,USA: HBO ZONE UHD
-http://xxultraxx.com:80/tvlink531/205677/23807
-#EXTINF:0,USA: HBO COMEDY HD
-http://xxultraxx.com:80/tvlink531/205677/9349
-#EXTINF:0,USA: HBO FAMILY HD
-http://xxultraxx.com:80/tvlink531/205677/9351
-#EXTINF:0,USA: HBO SIGNATURE HD
-http://xxultraxx.com:80/tvlink531/205677/9350
-#EXTINF:0,CAN: HBO 1
-http://xxultraxx.com:80/tvlink531/205677/9336
-#EXTINF:0,CAN: HBO 2
-http://xxultraxx.com:80/tvlink531/205677/9335
+#EXTINF:-1,Federalna TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/572
+#EXTINF:-1,BHT 1 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/592
+#EXTINF:-1,RTRS
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/523
+#EXTINF:-1,RTRS Plus
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7274
+#EXTINF:-1,Al Jazeera Balkans
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/600
+#EXTINF:-1,OBN
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/541
+#EXTINF:-1,Face Tv
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/573
+#EXTINF:-1,Hayat BiH
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/566
+#EXTINF:-1,Hayat Plus
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/563
+#EXTINF:-1,ATV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/597
+#EXTINF:-1,BN TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/590
+#EXTINF:-1,O Kanal
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/508
+#EXTINF:-1,Nova BH
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/372
+#EXTINF:-1,N1 BIH
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/549
+#EXTINF:-1,K3 Prnjavor
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/509
+#EXTINF:-1,HIT
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5749
+#EXTINF:-1,RTV HB
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6762
+#EXTINF:-1,RTV Cazin
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6901
+#EXTINF:-1,RTV Podrinje
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7467
+#EXTINF:-1,RTV Vogosca
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5748
+#EXTINF:-1,TV Sarajevo
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/511
+#EXTINF:-1,Alfa TV Sarajevo
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5600
+#EXTINF:-1,TV TK
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3687
+#EXTINF:-1,USK HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/506
+#EXTINF:-1,Bugojno TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7429
+#EXTINF:-1,K3
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5597
+#EXTINF:-1,Glas Drine
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5596
+#EXTINF:-1,B1 Gradacac
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6736
+#EXTINF:-1,NTV IC Kakanj
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5603
+#EXTINF:-1,TV Zenica
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5598
+#EXTINF:-1,RTV Slon Extra
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/510
+#EXTINF:-1,MIR TV HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6457
+#EXTINF:-1,MTV Igman
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3795
+#EXTINF:-1,HEMA
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5660
+#EXTINF:-1,TV 5 HD Islam
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5477
+#EXTINF:-1,TV 6 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5658
+#EXTINF:-1,Mekka TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5602
+#EXTINF:-1,Sandzak TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6026
+#EXTINF:-1,Sehara TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5366
+#EXTINF:-1,TV Visoko
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/395
+#EXTINF:-1,==== HRVATSKA ====
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6031
+#EXTINF:-1,HRT 1 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/560
+#EXTINF:-1,HRT 2 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6049
+#EXTINF:-1,HRT 3 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/558
+#EXTINF:-1,HRT 4 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/557
+#EXTINF:-1,HRT 1
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6858
+#EXTINF:-1,HRT 2
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/559
+#EXTINF:-1,HRT 3
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6859
+#EXTINF:-1,HRT 4
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6860
+#EXTINF:-1,HRT 5
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/556
+#EXTINF:-1,Doma TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/575
+#EXTINF:-1,Doma TV HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/574
+#EXTINF:-1,Nova TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/544
+#EXTINF:-1,Nova TV HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/543
+#EXTINF:-1,RT HR FHD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8220
+#EXTINF:-1,RT HR
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7516
+#EXTINF:-1,RT 2 HR
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7519
+#EXTINF:-1,RT PAS
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7518
+#EXTINF:-1,RT CRI
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7517
+#EXTINF:-1,RT-LIV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8001
+#EXTINF:-1,N1 HR
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/550
+#EXTINF:-1,Z1
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/499
+#EXTINF:-1,Laudato TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/553
+#EXTINF:-1,Mreza Zagreb
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8041
+#EXTINF:-1,Mreza Split
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8042
+#EXTINF:-1,Banovina TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/593
+#EXTINF:-1,Osjecka TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/554
+#EXTINF:-1,Vinkovacka TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5845
+#EXTINF:-1,Posavina TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/397
+#EXTINF:-1,Slavonska televizija
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/555
+#EXTINF:-1,Jabuka TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6331
+#EXTINF:-1,KanalR
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6330
+#EXTINF:-1,Libertas TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6329
+#EXTINF:-1,Poljoprivredna TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6328
+#EXTINF:-1,SBTV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6326
+#EXTINF:-1,Srce TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6324
+#EXTINF:-1,TV Dubrovnik
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6323
+#EXTINF:-1,Dubrovacka Televizija
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6322
+#EXTINF:-1,TV Istra
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6321
+#EXTINF:-1,TV Jadran
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6320
+#EXTINF:-1,Zdrava Televizija 7
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6316
+#EXTINF:-1,Capital TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6502
+#EXTINF:-1,DMC
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6503
+#EXTINF:-1,==== SRBIJA ====
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5589
+#EXTINF:-1,RTS 1 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/521
+#EXTINF:-1,RTS 1
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6886
+#EXTINF:-1,RTS 2 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/520
+#EXTINF:-1,RTS 3
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/519
+#EXTINF:-1,RTS Svet
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/516
+#EXTINF:-1,RTS Drama
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/518
+#EXTINF:-1,RTS Zivot
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/517
+#EXTINF:-1,RTS Kolo
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6399
+#EXTINF:-1,RTS Muzika
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6398
+#EXTINF:-1,RTS Trezor
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6400
+#EXTINF:-1,RTV Vojvodina
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/513
+#EXTINF:-1,Belle Amie
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3665
+#EXTINF:-1,Happy TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/567
+#EXTINF:-1,HAPPY PAROVI 24 SATA
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/568
+#EXTINF:-1,ZADRUGA LIVE 1
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6334
+#EXTINF:-1,ZADRUGA LIVE 2
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8217
+#EXTINF:-1,ZADRUGA LIVE 3
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8218
+#EXTINF:-1,K::CN 1
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/400
+#EXTINF:-1,K::CN 2
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/399
+#EXTINF:-1,K::CN 3
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/398
+#EXTINF:-1,Jefimija
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/545
+#EXTINF:-1,O2 TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8022
+#EXTINF:-1,O2 TV HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/594
+#EXTINF:-1,N1 SRB
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/548
+#EXTINF:-1,NOVA S
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/505
+#EXTINF:-1,Studio B
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3650
+#EXTINF:-1,Palma Plus
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3666
+#EXTINF:-1,BK
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6524
+#EXTINF:-1,Puls TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/515
+#EXTINF:-1,RTV Novi Pazar
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/512
+#EXTINF:-1,Prva TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8021
+#EXTINF:-1,Prva HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/539
+#EXTINF:-1,Prva Max
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/538
+#EXTINF:-1,Prva Plus
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/537
+#EXTINF:-1,Prva Kick
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3649
+#EXTINF:-1,Prva World
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/536
+#EXTINF:-1,==== CRNA GORA ====
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6485
+#EXTINF:-1,RTCG 1
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/534
+#EXTINF:-1,RTCG 2
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/533
+#EXTINF:-1,RTCG Sat
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/535
+#EXTINF:-1,Prva TV CG
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/532
+#EXTINF:-1,Vijesti 24
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/531
+#EXTINF:-1,Nova M HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/364
+#EXTINF:-1,PINK M
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6429
+#EXTINF:-1,Montenegro Luxemburg
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7330
+#EXTINF:-1,==== FILMSKI ====
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/436
+#EXTINF:-1,NOVA PREMIUM HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8219
+#EXTINF:-1,HBO 1 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/419
+#EXTINF:-1,HBO 2 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/418
+#EXTINF:-1,HBO 3 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/417
+#EXTINF:-1,HBO GO
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8019
+#EXTINF:-1,HBO Family
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8020
+#EXTINF:-1,Cinemax 1 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/435
+#EXTINF:-1,Cinemax 2 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/434
+#EXTINF:-1,CineStar Premiere 1
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6543
+#EXTINF:-1,CineStar Premiere 2
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6542
+#EXTINF:-1,CineStar Premiere 1 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/431
+#EXTINF:-1,CineStar Premiere 2 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/430
+#EXTINF:-1,CineStar TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/429
+#EXTINF:-1,Cinemania
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/428
+#EXTINF:-1,CineStar Fantasy
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/432
+#EXTINF:-1,Cinestar Action
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/433
+#EXTINF:-1,FOX
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/423
+#EXTINF:-1,FOX Crime
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/422
+#EXTINF:-1,FOX Life
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/421
+#EXTINF:-1,FOX Movies
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/420
+#EXTINF:-1,FOX HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6305
+#EXTINF:-1,FOX LIFE HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6307
+#EXTINF:-1,FOX CRIME HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6306
+#EXTINF:-1,FOX MOVIES HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6308
+#EXTINF:-1,SUPER STAR TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6270
+#EXTINF:-1,STAR TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6748
+#EXTINF:-1,TV 1000
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/408
+#EXTINF:-1,Film Box Plus
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5510
+#EXTINF:-1,Film Box Extra HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/424
+#EXTINF:-1,Satellite TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6656
+#EXTINF:-1,AMC
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/599
+#EXTINF:-1,Diva
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/576
+#EXTINF:-1,SciFi
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/409
+#EXTINF:-1,AXN
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/596
+#EXTINF:-1,AXN Spin
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/595
+#EXTINF:-1,Comedy Central Extra
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/586
+#EXTINF:-1,Klasik Tv
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/415
+#EXTINF:-1,Kino TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/416
+#EXTINF:-1,M1 Film
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/414
+#EXTINF:-1,Lud Zbunjen Normalan
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8047
+#EXTINF:-1,Satellite TVMovies Action
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6274
+#EXTINF:-1,M MOVIES ALL STAR
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6273
+#EXTINF:-1,M MOVIES SMILE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6271
+#EXTINF:-1,CROMAX Select (Gold) HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3799
+#EXTINF:-1,CROMAX Select (Premium) HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3798
+#EXTINF:-1,CROMAX Select (Horor) HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5467
+#EXTINF:-1,CROMAX Select 1 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/426
+#EXTINF:-1,CROMAX Select 2 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5468
+#EXTINF:-1,CROMAX Select 3 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5469
+#EXTINF:-1,CROMAX Select 4 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5470
+#EXTINF:-1,CROMAX Select 5 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5471
+#EXTINF:-1,CROMAX Select 6 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5472
+#EXTINF:-1,CROMAX Select 7 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5473
+#EXTINF:-1,CROMAX Select 8 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5474
+#EXTINF:-1,CROMAX Select 9 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5475
+#EXTINF:-1,CROMAX Select 10 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5476
+#EXTINF:-1,==== PINK ====
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/377
+#EXTINF:-1,Pink BH
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3647
+#EXTINF:-1,PINK
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/376
+#EXTINF:-1,PINK HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7466
+#EXTINF:-1,PINK 2
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/375
+#EXTINF:-1,Pink 3 Info
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/374
+#EXTINF:-1,Pink Action
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/373
+#EXTINF:-1,Pink Comedy
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/371
+#EXTINF:-1,Pink Crime & Mystery
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/370
+#EXTINF:-1,Pink Film
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/369
+#EXTINF:-1,Pink Folk 1
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/368
+#EXTINF:-1,Pink Folk 2
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/367
+#EXTINF:-1,PINK HA HA
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/366
+#EXTINF:-1,Pink Horror
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/356
+#EXTINF:-1,Pink Kids
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/365
+#EXTINF:-1,Pink Movies
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/363
+#EXTINF:-1,Pink Music 1
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/362
+#EXTINF:-1,Pink Music 2
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/361
+#EXTINF:-1,Pink & Roll
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6640
+#EXTINF:-1,PinSatellite TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/360
+#EXTINF:-1,Pink Premium
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/359
+#EXTINF:-1,Pink Reality
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/358
+#EXTINF:-1,Pink Romance
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/357
+#EXTINF:-1,Pink Sci Fi & Fantasy
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/355
+#EXTINF:-1,Pink Serije
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/353
+#EXTINF:-1,Pink Show
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/352
+#EXTINF:-1,PINK SOAP
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/351
+#EXTINF:-1,Pink Thriler
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/354
+#EXTINF:-1,Pink Classic
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5665
+#EXTINF:-1,Pink Family
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5666
+#EXTINF:-1,Pink Kuvar
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5664
+#EXTINF:-1,Pink LOL
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5663
+#EXTINF:-1,Pink World
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5667
+#EXTINF:-1,Pink Pedia
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/350
+#EXTINF:-1,Pink Western
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/349
+#EXTINF:-1,Pink World Cinema
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/348
+#EXTINF:-1,Pink Zabava
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/347
+#EXTINF:-1,==== DOKUMENTARNI ====
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/1545
+#EXTINF:-1,National Geographic
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6303
+#EXTINF:-1,National Geographic HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/546
+#EXTINF:-1,Animal Planet
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/598
+#EXTINF:-1,Nat Geo Wild
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/547
+#EXTINF:-1,Discovery Channel
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/583
+#EXTINF:-1,Discovery Science HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/581
+#EXTINF:-1,Discovery Showcase
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/580
+#EXTINF:-1,Discovery ID
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7275
+#EXTINF:-1,Discovery TLC
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/579
+#EXTINF:-1,Discovery Turbo Xtra
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/578
+#EXTINF:-1,Entertaimment +
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3664
+#EXTINF:-1,CBS Reality
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/589
+#EXTINF:-1,Crime & Investigation
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/585
+#EXTINF:-1,Da Vinci Learning
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/584
+#EXTINF:-1,Viasat Explore
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/503
+#EXTINF:-1,Viasat History
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/502
+#EXTINF:-1,Viasat Nature
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/501
+#EXTINF:-1,DR FIT
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/524
+#EXTINF:-1,Fine Living
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6298
+#EXTINF:-1,Travel Channel
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3651
+#EXTINF:-1,Planet Earth
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5389
+#EXTINF:-1,BBC Earth HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5677
+#EXTINF:-1,DOKU TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5673
+#EXTINF:-1,Docu Box HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/577
+#EXTINF:-1,History Channel
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/561
+#EXTINF:-1,History Channel 2
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/569
+#EXTINF:-1,Food Network
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6314
+#EXTINF:-1,24 Kitchen
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/601
+#EXTINF:-1,Fashion TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/587
+#EXTINF:-1,==== DJECIJI ====
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/390
+#EXTINF:-1,MINIMAX
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/384
+#EXTINF:-1,MINIMAX SRB
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6545
+#EXTINF:-1,Nickelodeon
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/382
+#EXTINF:-1,Nickelodeon SRB
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6864
+#EXTINF:-1,Nick Jr.
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/383
+#EXTINF:-1,MINI TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/507
+#EXTINF:-1,Vavoom
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/385
+#EXTINF:-1,Hayatovci
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/562
+#EXTINF:-1,Pikaboo
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/378
+#EXTINF:-1,Baby TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/388
+#EXTINF:-1,RT KOC
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7520
+#EXTINF:-1,Cartoon Network
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/389
+#EXTINF:-1,Disney channel
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/386
+#EXTINF:-1,Boomerang
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/387
+#EXTINF:-1,TNT Kids
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/380
+#EXTINF:-1,Pink Super Kids
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8048
+#EXTINF:-1,Bang Bang
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8232
+#EXTINF:-1,Sundjer Bob 24h
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8233
+#EXTINF:-1,Tom and Jerry
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8046
+#EXTINF:-1,MASA I MEDA
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5671
+#EXTINF:-1,==== SPORTSKI ====
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/498
+#EXTINF:-1,Nova Sport
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8043
+#EXTINF:-1,Planet Sport 1 FHD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7321
+#EXTINF:-1,Planet Sport 2 FHD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7322
+#EXTINF:-1,Planet Sport 3 FHD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7323
+#EXTINF:-1,Planet Sport 4 FHD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7324
+#EXTINF:-1,Planet Sport 5 FHD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7325
+#EXTINF:-1,Planet Sport 1 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/497
+#EXTINF:-1,Planet Sport 2 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/496
+#EXTINF:-1,Planet Sport 3 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3794
+#EXTINF:-1,Planet Sport 4 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5678
+#EXTINF:-1,Planet Sport 5 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5679
+#EXTINF:-1,Arena Sport 1
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/495
+#EXTINF:-1,Arena Sport 2
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/494
+#EXTINF:-1,Arena Sport 3
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/493
+#EXTINF:-1,Arena Sport 4
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/492
+#EXTINF:-1,Arena Sport 5
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/491
+#EXTINF:-1,Arena Sport 1 HD BIH
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6776
+#EXTINF:-1,Arena Sport 1 HD SRB
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/490
+#EXTINF:-1,Arena Sport 2 HD SRB
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/489
+#EXTINF:-1,Arena Sport 3 HD SRB
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/488
+#EXTINF:-1,Arena Sport 4 HD SRB
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/487
+#EXTINF:-1,Arena Sport 1 HD HR
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/486
+#EXTINF:-1,Arena Sport 2 HD HR
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/485
+#EXTINF:-1,Arena Sport 3 HD HR
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/484
+#EXTINF:-1,Arena Sport 4 HD HR
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/483
+#EXTINF:-1,Arena Sport 5 HD HR
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/482
+#EXTINF:-1,Arena Sport 6 HD HR
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/481
+#EXTINF:-1,Moja TV Premier Liga BiH
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/480
+#EXTINF:-1,Sport Klub Esports
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7272
+#EXTINF:-1,Sport Klub HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5347
+#EXTINF:-1,Sport Klub 1 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/460
+#EXTINF:-1,Sport Klub 2 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/459
+#EXTINF:-1,Sport Klub 3 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/458
+#EXTINF:-1,Sport Klub 4 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/457
+#EXTINF:-1,Sport Klub 5 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/456
+#EXTINF:-1,Sport Klub 6 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/455
+#EXTINF:-1,Sport Klub 1 SRB
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/447
+#EXTINF:-1,Sport Klub 2 SRB
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/446
+#EXTINF:-1,Sport Klub 3 SRB
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/445
+#EXTINF:-1,Sport Klub 4 SRB
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/444
+#EXTINF:-1,Sport Klub 5 SRB
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/443
+#EXTINF:-1,Sport Klub 6 SRB
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/442
+#EXTINF:-1,Sport Klub 1 HD HR
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/450
+#EXTINF:-1,Sport Klub 2 HD HR
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/449
+#EXTINF:-1,Sport Klub 3 HD HR
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/448
+#EXTINF:-1,Sport Klub 4 HR
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7448
+#EXTINF:-1,Sport Klub 5 HR
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7449
+#EXTINF:-1,Sport Klub 6 HR
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7450
+#EXTINF:-1,Sport Klub Golf
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5355
+#EXTINF:-1,SPORT TV 1 HD SLO
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/215
+#EXTINF:-1,SPORT TV 2 HD SLO
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/214
+#EXTINF:-1,SPORT TV 3 HD SLO
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/213
+#EXTINF:-1,BEIN Sport 1 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/479
+#EXTINF:-1,BEIN Sport 2 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/478
+#EXTINF:-1,BEIN Sport 3 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/477
+#EXTINF:-1,BEIN Sport 4 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/476
+#EXTINF:-1,BEIN Sport 5 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/475
+#EXTINF:-1,BEIN Sport 6 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3694
+#EXTINF:-1,BEIN Sport 7 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3695
+#EXTINF:-1,BEIN Sport 8 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3696
+#EXTINF:-1,BEIN Sport 9 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3697
+#EXTINF:-1,BEIN Sport 10 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3698
+#EXTINF:-1,EUROSPORT 1
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6540
+#EXTINF:-1,EUROSPORT 2
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6541
+#EXTINF:-1,EUROSPORT 1 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/468
+#EXTINF:-1,EUROSPORT 2 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/467
+#EXTINF:-1,ELEVEN SPORT 1 FHD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5764
+#EXTINF:-1,ELEVEN SPORT 2 FHD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5765
+#EXTINF:-1,ELEVEN SPORT 3 FHD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5766
+#EXTINF:-1,DAZN 1 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5541
+#EXTINF:-1,DAZN 2 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5542
+#EXTINF:-1,TELEKOM FUSSBALL 1 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6658
+#EXTINF:-1,EUROSPORT 1 DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6296
+#EXTINF:-1,EUROSPORT 2 DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6297
+#EXTINF:-1,Satellite TVSport 1 HD DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/290
+#EXTINF:-1,Satellite TVSport 2 HD DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/289
+#EXTINF:-1,Satellite TVSport 3 HD (ONLY ON MATCHDAY)
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/288
+#EXTINF:-1,Satellite TVSport 4 HD (ONLY ON MATCHDAY)
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/287
+#EXTINF:-1,Satellite TVSport 5 HD (ONLY ON MATCHDAY)
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/286
+#EXTINF:-1,Satellite TVSport 6 HD (ONLY ON MATCHDAY)
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/285
+#EXTINF:-1,Satellite TVSport 7 HD (ONLY ON MATCHDAY)
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/284
+#EXTINF:-1,Satellite TVSport 8 HD (ONLY ON MATCHDAY)
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/283
+#EXTINF:-1,Satellite TVSport 9 HD (ONLY ON MATCHDAY)
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/282
+#EXTINF:-1,Satellite TVSport 10 HD (ONLY ON MATCHDAY)
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/281
+#EXTINF:-1,Satellite TVSport Austria
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/279
+#EXTINF:-1,Satellite TVSport Bundesliga 1 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/278
+#EXTINF:-1,Satellite TVSport Bundesliga 2 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/277
+#EXTINF:-1,Satellite TVSport Bundesliga 3 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/276
+#EXTINF:-1,Satellite TVSport Bundesliga 4 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/275
+#EXTINF:-1,Satellite TVSport Bundesliga 5 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/274
+#EXTINF:-1,Satellite TVSport Bundesliga 6 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/273
+#EXTINF:-1,Satellite TVSport News DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/272
+#EXTINF:-1,Satellite TVSports F1 DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/296
+#EXTINF:-1,IT: Sport 24 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/263
+#EXTINF:-1,IT: Satellite TVSport 2 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/262
+#EXTINF:-1,IT: Super Satellite TVCalcio
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/230
+#EXTINF:-1,US: Satellite TVSport F1
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/229
+#EXTINF:-1,USA/UK: Satellite TVSport HD Cricket
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/27
+#EXTINF:-1,USA/UK: Satellite TVSports Arena FHD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/24
+#EXTINF:-1,USA/UK: Satellite TVSport Premier Liga
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/23
+#EXTINF:-1,Sport Digital HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/461
+#EXTINF:-1,Motorvision HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/327
+#EXTINF:-1,Auto Motor Sport
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/340
+#EXTINF:-1,SOS
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/438
+#EXTINF:-1,Lov i ribolov
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7315
+#EXTINF:-1,Sportska TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/439
+#EXTINF:-1,Partizan TV HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5508
+#EXTINF:-1,HNTV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/464
+#EXTINF:-1,Fight Box HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5509
+#EXTINF:-1,Fight Channel HR
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/465
+#EXTINF:-1,Kreator TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/463
+#EXTINF:-1,NBA TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/466
+#EXTINF:-1,Sport1 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/440
+#EXTINF:-1,FOX Sports 1
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/471
+#EXTINF:-1,FOX Sports 2
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/470
+#EXTINF:-1,BT Sport 1
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/474
+#EXTINF:-1,BT Sport 2
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/473
+#EXTINF:-1,BT Sport 3
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/472
+#EXTINF:-1,Bayern TV HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6103
+#EXTINF:-1,==== MUZICKI ====
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/407
+#EXTINF:-1,Balkanika TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/391
+#EXTINF:-1,MTV Adria
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/551
+#EXTINF:-1,MTV Hits
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/394
+#EXTINF:-1,MTV Dance
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/392
+#EXTINF:-1,VH1 Classic TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/504
+#EXTINF:-1,IDJTV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/403
+#EXTINF:-1,CMC
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/588
+#EXTINF:-1,BN Music
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/591
+#EXTINF:-1,DM Sat
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/406
+#EXTINF:-1,Grand
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/404
+#EXTINF:-1,Grand 2
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/405
+#EXTINF:-1,Duga TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5416
+#EXTINF:-1,Izvorna TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/402
+#EXTINF:-1,Jugoton TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/401
+#EXTINF:-1,Narodna TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/393
+#EXTINF:-1,OTV Valentino
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/540
+#EXTINF:-1,Hayat Music
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/564
+#EXTINF:-1,Sevdah TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/396
+#EXTINF:-1,Hayat Folk
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/565
+#EXTINF:-1,==== SLOVENIA ====
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/227
+#EXTINF:-1,SLO 1
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/217
+#EXTINF:-1,SLO 2
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/216
+#EXTINF:-1,HBO 1 SLO
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/226
+#EXTINF:-1,HBO 2 SLO
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/225
+#EXTINF:-1,HBO 3 SLO
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/224
+#EXTINF:-1,POP Brio
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/221
+#EXTINF:-1,POP Kino
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/219
+#EXTINF:-1,POP Oto
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/218
+#EXTINF:-1,POP TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/220
+#EXTINF:-1,Planet TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/222
+#EXTINF:-1,Kanal A
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/223
+#EXTINF:-1,GOLICA
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/209
+#EXTINF:-1,Planet SLO
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8035
+#EXTINF:-1,Planet 2 SLO
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8038
+#EXTINF:-1,Planet Plus SLO
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8036
+#EXTINF:-1,Nova 24 SLO
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8037
+#EXTINF:-1,Fox Movies SLO
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8040
+#EXTINF:-1,Fox Life SLO
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8039
+#EXTINF:-1,==== GERMANY ====
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/346
+#EXTINF:-1,13th Street DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/344
+#EXTINF:-1,3Sat DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/345
+#EXTINF:-1,DMAX DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/334
+#EXTINF:-1,Kabel Eins DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/330
+#EXTINF:-1,Kabel 1 Doku
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/331
+#EXTINF:-1,N24 DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/326
+#EXTINF:-1,ARTE HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6106
+#EXTINF:-1,ORF 1 DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/323
+#EXTINF:-1,ORF 2 DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/322
+#EXTINF:-1,RT DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7521
+#EXTINF:-1,RT 2 DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7522
+#EXTINF:-1,Pro7 DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/321
+#EXTINF:-1,TOG P
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7527
+#EXTINF:-1,Pro7 Maxx DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/320
+#EXTINF:-1,Romance TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6701
+#EXTINF:-1,Sat 1 DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/311
+#EXTINF:-1,Sat 1 Gold DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/310
+#EXTINF:-1,Sixx DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/309
+#EXTINF:-1,ZDF DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/267
+#EXTINF:-1,VO DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7525
+#EXTINF:-1,RT N DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7523
+#EXTINF:-1,RTP DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7530
+#EXTINF:-1,RTN DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7529
+#EXTINF:-1,RTC DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7528
+#EXTINF:-1,RT LIV DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7524
+#EXTINF:-1,RT Sup
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7526
+#EXTINF:-1,ARD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/341
+#EXTINF:-1,Zee one DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/266
+#EXTINF:-1,SRF 1 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/269
+#EXTINF:-1,History Channel DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/332
+#EXTINF:-1,National Geographic DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/325
+#EXTINF:-1,Nat Geo Wild DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/324
+#EXTINF:-1,Boomerang DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/339
+#EXTINF:-1,Cartoon Network DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/335
+#EXTINF:-1,Nickelodeon DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6047
+#EXTINF:-1,Discovery Channel DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/338
+#EXTINF:-1,Animal Planet DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/343
+#EXTINF:-1,Disney Cinemagic DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/337
+#EXTINF:-1,Disney Jr. DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/336
+#EXTINF:-1,KiKa DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/329
+#EXTINF:-1,FOX DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/333
+#EXTINF:-1,AXN DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/342
+#EXTINF:-1,Satellite TVUniversal DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/271
+#EXTINF:-1,Syfy DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/270
+#EXTINF:-1,Tele 5 DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/268
+#EXTINF:-1,TNT Comedy DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/306
+#EXTINF:-1,TNT Film DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/307
+#EXTINF:-1,TNT Serie DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/308
+#EXTINF:-1,N/A
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/328
+#EXTINF:-1,Satellite TVAction DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/305
+#EXTINF:-1,Satellite TVAtlantic DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/304
+#EXTINF:-1,Satellite TVCinema 24 DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/302
+#EXTINF:-1,Satellite TVCinema DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/303
+#EXTINF:-1,Satellite TVComedy DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/301
+#EXTINF:-1,Satellite TVEmotion DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/299
+#EXTINF:-1,Satellite TVHits DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/298
+#EXTINF:-1,Satellite TVKrimi DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/297
+#EXTINF:-1,Satellite TVNostalgie DE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/300
+#EXTINF:-1,Satellite TVSelect 1 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/295
+#EXTINF:-1,Satellite TVSelect 2 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/294
+#EXTINF:-1,Satellite TVSelect 3 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/293
+#EXTINF:-1,Satellite TVSelect 4 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3689
+#EXTINF:-1,Satellite TVSelect 5 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/292
+#EXTINF:-1,Satellite TVSelect 6 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3690
+#EXTINF:-1,ORF Sport+ HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6740
+#EXTINF:-1,==== SWITZERLAND ====
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6853
+#EXTINF:-1,SWISS: SRF 1 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6836
+#EXTINF:-1,SWISS: SRF 2 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6835
+#EXTINF:-1,SWISS: ORF 1 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6846
+#EXTINF:-1,SWISS: ORF 2 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6845
+#EXTINF:-1,SWISS: 3sat HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6852
+#EXTINF:-1,SWISS: 5 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6851
+#EXTINF:-1,SWISS: Kabel 1
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6849
+#EXTINF:-1,SWISS: QS24 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6848
+#EXTINF:-1,SWISS: N24 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6847
+#EXTINF:-1,SWISS: ProSieben
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6844
+#EXTINF:-1,SWISS: RTS Un HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6840
+#EXTINF:-1,SWISS: SAT. 1
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6839
+#EXTINF:-1,SWISS: SCHWEIZ5
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6838
+#EXTINF:-1,SWISS: SIXX HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6837
+#EXTINF:-1,SWISS: SRF Info
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6820
+#EXTINF:-1,SWISS: SWISS 1 FullHD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6834
+#EXTINF:-1,SWISS: Nickelodeon HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6833
+#EXTINF:-1,SWISS: Teletop
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6832
+#EXTINF:-1,SWISS: Tele Zuri HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6831
+#EXTINF:-1,SWISS: Tele Basel HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6830
+#EXTINF:-1,SWISS: TeleM1
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6829
+#EXTINF:-1,SWISS: Teleclub Zoom Full HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6828
+#EXTINF:-1,SWISS: Kanal9
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6827
+#EXTINF:-1,SWISS: 6+ HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6826
+#EXTINF:-1,SWISS: 5+ HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6825
+#EXTINF:-1,SWISS: 4+ HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6824
+#EXTINF:-1,SWISS: TV 25 FullHD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6823
+#EXTINF:-1,SWISS: 3+ HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6822
+#EXTINF:-1,==== ITALY ====
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/264
+#EXTINF:-1,IT: Rai 1 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5657
+#EXTINF:-1,IT: RAI 2 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5656
+#EXTINF:-1,IT: RAI 3 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5655
+#EXTINF:-1,IT: Rai 4 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5654
+#EXTINF:-1,IT: Rai 5 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5653
+#EXTINF:-1,IT: Italia 1
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6037
+#EXTINF:-1,IT: Rai Gulp
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5649
+#EXTINF:-1,IT: TeleTicino
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5650
+#EXTINF:-1,IT: TV Videolina
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5651
+#EXTINF:-1,IT: TV8
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5652
+#EXTINF:-1,IT: Rai Movie
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/240
+#EXTINF:-1,IT: Rai News 24
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/239
+#EXTINF:-1,IT: Rai Premium
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/238
+#EXTINF:-1,IT: Rai Sport 1
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/237
+#EXTINF:-1,IT: RSI LA 1 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5648
+#EXTINF:-1,IT: Satellite TVe 5
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6500
+#EXTINF:-1,IT: Cielo
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5646
+#EXTINF:-1,IT: Premium Emotion
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5645
+#EXTINF:-1,IT: Satellite TVSport Uno HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5604
+#EXTINF:-1,IT: History Channel
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5611
+#EXTINF:-1,IT: Fox
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5647
+#EXTINF:-1,IT: LA7
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5637
+#EXTINF:-1,IT: Satellite TVCinema Comedy
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/233
+#EXTINF:-1,IT: Satellite TVCinema Family
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/231
+#EXTINF:-1,IT: Satellite TVCinema Passion
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/256
+#EXTINF:-1,IT: Rete 4
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/235
+#EXTINF:-1,IT: RSI LA 2 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/228
+#EXTINF:-1,IT: Premium Cinema 1
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/250
+#EXTINF:-1,IT: Satellite TVCinema Uno
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/249
+#EXTINF:-1,IT: PREMIUM CINEMA COMEDY
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5638
+#EXTINF:-1,IT: Satellite TVSport 24 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5639
+#EXTINF:-1,IT: Satellite TVCinema Due
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5640
+#EXTINF:-1,IT: Premium Action 24
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5641
+#EXTINF:-1,IT: Mediaset Extra
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5625
+#EXTINF:-1,==== POLAND ====
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6817
+#EXTINF:-1,PL: TVP HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7531
+#EXTINF:-1,PL: TVP 3
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7533
+#EXTINF:-1,PL: TV 4
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7539
+#EXTINF:-1,PL: TVP SERIALE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7534
+#EXTINF:-1,PL: TVP Rozrywka
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7536
+#EXTINF:-1,PL: TVP Polonia
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7535
+#EXTINF:-1,PL: TVP KULTURA
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7537
+#EXTINF:-1,PL: TVP Info
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7532
+#EXTINF:-1,PL: Polsat Viasat Nature
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7544
+#EXTINF:-1,PL: POLSAT SPORTS
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7541
+#EXTINF:-1,PL: Polsat Sport Extra
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7542
+#EXTINF:-1,PL: POLSAT FILM
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7540
+#EXTINF:-1,PL: Polsat
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7538
+#EXTINF:-1,PL: Nsport
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7543
+#EXTINF:-1,PL: Nick Jr
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7555
+#EXTINF:-1,PL: Nat Geo Wild
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7554
+#EXTINF:-1,PL: HBO
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7545
+#EXTINF:-1,PL: FOX COMEDY
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7546
+#EXTINF:-1,PL: FILMBOX EXTRA
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7547
+#EXTINF:-1,PL: E! FHD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7548
+#EXTINF:-1,PL: Disney XD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7556
+#EXTINF:-1,PL: Satellite TV SERIALE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7550
+#EXTINF:-1,PL: Satellite TV 1
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7549
+#EXTINF:-1,PL: BBC EARTH
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7553
+#EXTINF:-1,PL: AXN
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7551
+#EXTINF:-1,PL: Ale Kino
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7552
+#EXTINF:-1,==== BULGARIA ====
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5809
+#EXTINF:-1,BG:NOVA SPORT HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5797
+#EXTINF:-1,BG: VTK
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5807
+#EXTINF:-1,BG: TV ART
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5808
+#EXTINF:-1,BG: EVROKOM
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5805
+#EXTINF:-1,BG: DSTV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5804
+#EXTINF:-1,BG: Diema Sport 2
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5773
+#EXTINF:-1,BG: Diema Sport 1
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5774
+#EXTINF:-1,BG: BULGARIA 24
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5803
+#EXTINF:-1,==== FRANCE ====
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6242
+#EXTINF:-1,FR: RTI1
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6147
+#EXTINF:-1,FR: RTI 2
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6146
+#EXTINF:-1,FR: TV 5 Monde
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6225
+#EXTINF:-1,FR: TMC
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6215
+#EXTINF:-1,FR: TF1 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6230
+#EXTINF:-1,FR: RTS Un HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6239
+#EXTINF:-1,FR: RTS Deux
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6241
+#EXTINF:-1,FR: Rouge TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6128
+#EXTINF:-1,FR: Satellite TV Decouverte HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6125
+#EXTINF:-1,FR: Numero 23 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6216
+#EXTINF:-1,FR: National Geographic
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6153
+#EXTINF:-1,FR: NRj12
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6137
+#EXTINF:-1,FR: Leman Bleu
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6155
+#EXTINF:-1,FR: EQUIPE HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6234
+#EXTINF:-1,FR: La Tele HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6229
+#EXTINF:-1,FR: L EQUIPE HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6222
+#EXTINF:-1,FR: HD1
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6120
+#EXTINF:-1,FR: Gulli
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6160
+#EXTINF:-1,FR: France O
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6238
+#EXTINF:-1,FR: France 5 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6235
+#EXTINF:-1,FR: France 4 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6236
+#EXTINF:-1,FR: France 3 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6237
+#EXTINF:-1,FR: M6
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6224
+#EXTINF:-1,FR: France 2 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6240
+#EXTINF:-1,FR: Euronews fr
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6223
+#EXTINF:-1,FR: Cherie 25 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6214
+#EXTINF:-1,FR: CHERIE 25
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6122
+#EXTINF:-1,FR: Cartoon Network HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6157
+#EXTINF:-1,FR: Satellite TV+ Cinema
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6206
+#EXTINF:-1,FR: Satellite TV J
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6159
+#EXTINF:-1,FR: RTL9
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6227
+#EXTINF:-1,FR: Satellite TV FAMILY HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6209
+#EXTINF:-1,FR: C8
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6149
+#EXTINF:-1,FR: Satellite TVTV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6150
+#EXTINF:-1,FR: Arte
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6151
+#EXTINF:-1,==== MAKEDONIJA ====
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3663
+#EXTINF:-1,[MK] 24 VESTI
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3655
+#EXTINF:-1,[MK] ALFA TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3658
+#EXTINF:-1,[MK] KANAL 5
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3660
+#EXTINF:-1,[MK] MRT 1
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3656
+#EXTINF:-1,[MK] MRT 2
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3657
+#EXTINF:-1,[MK] Hugo TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6469
+#EXTINF:-1,[MK] CinePlex TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6897
+#EXTINF:-1,[MK] TV PLUS
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3654
+#EXTINF:-1,[MK] SITEL
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3662
+#EXTINF:-1,[MK] SITEL 2
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3661
+#EXTINF:-1,[MK] NASA TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6657
+#EXTINF:-1,[MK] SONCE TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3653
+#EXTINF:-1,[MK] TELMA
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3659
+#EXTINF:-1,[MK] SUTEL
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3652
+#EXTINF:-1,[MK] TERA TV Bitola
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6527
+#EXTINF:-1,[MK] Folk HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6525
+#EXTINF:-1,[MK] Satellite TVFolk HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6526
+#EXTINF:-1,==== ALBANIA ====
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/208
+#EXTINF:-1,ALB: News Albania
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/206
+#EXTINF:-1,ALB: Vizion Plus
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/205
+#EXTINF:-1,ALB: Islam TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/204
+#EXTINF:-1,ALB: Bang Bang
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/202
+#EXTINF:-1,ALB: RTV 21
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/201
+#EXTINF:-1,ALB: Fox Life
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/199
+#EXTINF:-1,ALB: Cufo
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/198
+#EXTINF:-1,ALB: Super Sport 1 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/197
+#EXTINF:-1,ALB: Super Sport 2 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/196
+#EXTINF:-1,ALB: Super Sport 3 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/195
+#EXTINF:-1,ALB: Tring 3+ HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/194
+#EXTINF:-1,ALB: Explorer Shkence HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/192
+#EXTINF:-1,ALB: Explorer Histori
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/191
+#EXTINF:-1,ALB: Discovery Channel
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/190
+#EXTINF:-1,ALB: Dukagjini HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/189
+#EXTINF:-1,ALB: Film Aksion
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/188
+#EXTINF:-1,ALB: National Geographic
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/185
+#EXTINF:-1,ALB: Explorer Natyra
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/184
+#EXTINF:-1,ALB: Film Nje HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/181
+#EXTINF:-1,ALB: Premium 1 FHD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/180
+#EXTINF:-1,ALB: Premium 2 FHD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/179
+#EXTINF:-1,ALB: RTV 21 Junior
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/178
+#EXTINF:-1,ALB: Klan Kosova HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/175
+#EXTINF:-1,ALB: KTV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/174
+#EXTINF:-1,ALB: RTK 1
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/168
+#EXTINF:-1,ALB: RTK 2
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/167
+#EXTINF:-1,ALB: RTK 3
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/166
+#EXTINF:-1,ALB: RTK 4
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/165
+#EXTINF:-1,ALB: TOP News
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/147
+#EXTINF:-1,ALB: Tring Action HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/146
+#EXTINF:-1,ALB: Tring Fantasy
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/145
+#EXTINF:-1,ALB: Tring Komedi
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/143
+#EXTINF:-1,ALB: Tring Life
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/142
+#EXTINF:-1,ALB: Tring Planet
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/141
+#EXTINF:-1,ALB: Tring History HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/140
+#EXTINF:-1,ALB: Tring Sport 1 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/138
+#EXTINF:-1,ALB: Tring Sport 2 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/137
+#EXTINF:-1,==== SWEDEN ====
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3704
+#EXTINF:-1,SE: SVT1
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3772
+#EXTINF:-1,SE: SVT2
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3778
+#EXTINF:-1,SE: SVT24/B
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3777
+#EXTINF:-1,SE: TLC
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3731
+#EXTINF:-1,SE: TV 3 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3775
+#EXTINF:-1,SE: TV10
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3763
+#EXTINF:-1,SE: TV12
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3760
+#EXTINF:-1,SE: TV4
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3770
+#EXTINF:-1,SE: TV4 Film
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3767
+#EXTINF:-1,SE: TV4 GULD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3769
+#EXTINF:-1,SE: TV6
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3765
+#EXTINF:-1,SE: TV8
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3764
+#EXTINF:-1,SE: KANAL 11
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3761
+#EXTINF:-1,SE: Kanal 5 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3754
+#EXTINF:-1,SE: Kanal 9 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3753
+#EXTINF:-1,SE: FOX
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3759
+#EXTINF:-1,SE: C More First HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3758
+#EXTINF:-1,SE:TV Sjuan
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3755
+#EXTINF:-1,SE: Paramount Network
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3768
+#EXTINF:-1,SE: C More Fotboll
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3726
+#EXTINF:-1,SE: C More Hits
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3720
+#EXTINF:-1,SE: C More Live 2 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3716
+#EXTINF:-1,SE: C More Live 3 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3715
+#EXTINF:-1,SE: C More Live HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3718
+#EXTINF:-1,SE: C More Sport
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3722
+#EXTINF:-1,SE: C More Stars
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3723
+#EXTINF:-1,SE: Cartoon Network
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3751
+#EXTINF:-1,SE: Discovery Channel
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3728
+#EXTINF:-1,SE: Disney Channel
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3748
+#EXTINF:-1,SE: Disney Junior
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3747
+#EXTINF:-1,SE: Disney XD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3749
+#EXTINF:-1,SE: Viasat Motor HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3738
+#EXTINF:-1,SE: EuroSport 1 SE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3744
+#EXTINF:-1,SE: EUROSPORT 2
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3743
+#EXTINF:-1,SE: H2 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3737
+#EXTINF:-1,SE: History HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3736
+#EXTINF:-1,SE: Investigation Discovery SE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3729
+#EXTINF:-1,SE: National Geographic Wild
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3734
+#EXTINF:-1,SE: National Geographiic
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3733
+#EXTINF:-1,SE: Nick Jr
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3746
+#EXTINF:-1,SE: Nickelodeon
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3745
+#EXTINF:-1,SE: Animal Planet
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3742
+#EXTINF:-1,SE: SF-Kanalen
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3732
+#EXTINF:-1,SE: Viasat Film Premiere
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3708
+#EXTINF:-1,SE: Viasat Film Hits
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3713
+#EXTINF:-1,SE: Viasat Film Action HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3711
+#EXTINF:-1,SE: Viasat Sport Premium
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3712
+#EXTINF:-1,SE: VIASAT SERIES
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3705
+#EXTINF:-1,==== DENMARK ====
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3686
+#EXTINF:-1,[DK] DR 1
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3683
+#EXTINF:-1,[DK] DR 2
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3682
+#EXTINF:-1,[DK] DR 3
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3681
+#EXTINF:-1,[DK] TV2
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3672
+#EXTINF:-1,[DK] TV2 Sport
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/6038
+#EXTINF:-1,[DK] TV3
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3671
+#EXTINF:-1,[DK] KANAL 5
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3677
+#EXTINF:-1,[DK] KANAL 9
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3676
+#EXTINF:-1,[DK] DISCOVERY CHANNEL
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3685
+#EXTINF:-1,[DK] DISNEY CHANNEL
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3684
+#EXTINF:-1,[DK] TLC HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3680
+#EXTINF:-1,[DK] EUROSPORT 1
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3679
+#EXTINF:-1,[DK] EUROSPORT 2
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3678
+#EXTINF:-1,[DK] Viasat History
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3757
+#EXTINF:-1,[DK] National Geographic Wild HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3674
+#EXTINF:-1,[DK] Cartoon Network
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3673
+#EXTINF:-1,[DK] VIASAT FILM PREMIERE
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3670
+#EXTINF:-1,[DK] DR Ramasjang
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/3669
+#EXTINF:-1,==== TURKEY ====
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5746
+#EXTINF:-1,TR: ULKE TV HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5715
+#EXTINF:-1,TR: TV 8
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5691
+#EXTINF:-1,TR: TRT World
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5743
+#EXTINF:-1,TR: TRT Turk
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5742
+#EXTINF:-1,TR: TRT Sport
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5740
+#EXTINF:-1,TR: TRT MUZIK
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5738
+#EXTINF:-1,TR: TRT HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5745
+#EXTINF:-1,TR: TRT HABER HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5734
+#EXTINF:-1,TR: TRT Avaz
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5739
+#EXTINF:-1,TR: TRT Arabia
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5735
+#EXTINF:-1,TR: TRT 1 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5744
+#EXTINF:-1,TR: TLC
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5684
+#EXTINF:-1,TR: TELE 1
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5733
+#EXTINF:-1,TR: Star HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5731
+#EXTINF:-1,TR: STAR FHD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5685
+#EXTINF:-1,TR: SHOW TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5718
+#EXTINF:-1,TR: ON 4 TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5717
+#EXTINF:-1,TR: NTV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5727
+#EXTINF:-1,TR: National Geographic Turk
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5681
+#EXTINF:-1,TR: NatGeo Wild Turk
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5680
+#EXTINF:-1,TR: MINICA GO
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5683
+#EXTINF:-1,TR: Kanal D HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5730
+#EXTINF:-1,TR: Kanal B
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5724
+#EXTINF:-1,TR: Kanal 7
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5725
+#EXTINF:-1,TR: HABER TURK HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5723
+#EXTINF:-1,TR: FOX TV FHD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5716
+#EXTINF:-1,TR: Dream TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5720
+#EXTINF:-1,TR: DREAM TURK
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5719
+#EXTINF:-1,TR: DISNEY JR
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5682
+#EXTINF:-1,TR: CNN TURK HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5722
+#EXTINF:-1,TR: ATV HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/5732
+#EXTINF:-1,==== RUSSIA ====
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7603
+#EXTINF:-1,RUS: RUSSIA 1 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7585
+#EXTINF:-1,RUS: RTR PLANETA
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7587
+#EXTINF:-1,RUS: ROSSIYA 24
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7590
+#EXTINF:-1,RUS: AMEDIA 1 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7582
+#EXTINF:-1,RUS: AMEDIA 2
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7583
+#EXTINF:-1,RUS: AMEDIA PREMIUM
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7584
+#EXTINF:-1,RUS: TV1000
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7592
+#EXTINF:-1,RUS: TV1000 ACTION HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7591
+#EXTINF:-1,RUS: TV 1000 PREMIUM HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7593
+#EXTINF:-1,RUS: TNT HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7589
+#EXTINF:-1,RUS: T24
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7588
+#EXTINF:-1,RUS: RUSSIA KULTURA
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7586
+#EXTINF:-1,RUS: NICKELODEON
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7594
+#EXTINF:-1,RUS: NAT GEO
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7595
+#EXTINF:-1,RUS: MATCH! ARENA
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7598
+#EXTINF:-1,RUS: MATCH! FOOTBALL 1 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7599
+#EXTINF:-1,RUS: MATCH! FOOTBALL 2 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7600
+#EXTINF:-1,RUS: MATCH! FOOTBALL 3 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7601
+#EXTINF:-1,RUS: MATCH TV HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7597
+#EXTINF:-1,RUS: DISCOVERY CHANNEL HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/7596
+#EXTINF:-1,==== HUNGARY ====
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8280
+#EXTINF:-1,HU: M1 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8263
+#EXTINF:-1,HU: M
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8264
+#EXTINF:-1,HU: M2 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8262
+#EXTINF:-1,HU: M4 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8261
+#EXTINF:-1,HU: m5 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8260
+#EXTINF:-1,HU: Viasat6
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8235
+#EXTINF:-1,HU: Viasat3
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8236
+#EXTINF:-1,HU: Viasat Nature
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8237
+#EXTINF:-1,HU: Viasat History
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8238
+#EXTINF:-1,HU: Viasat Explore
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8239
+#EXTINF:-1,HU: TV4
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8240
+#EXTINF:-1,HU: TV2 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8241
+#EXTINF:-1,HU: TV Paprika HU
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8242
+#EXTINF:-1,HU: TV 1000
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8243
+#EXTINF:-1,HU: Travel Channel HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8244
+#EXTINF:-1,HU: TLC HU
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8245
+#EXTINF:-1,HU: SuperTV2
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8246
+#EXTINF:-1,HU: STORY5
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8247
+#EXTINF:-1,HU: Sport2 HU
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8248
+#EXTINF:-1,HU: Sport 1 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8249
+#EXTINF:-1,HU: RTL2
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8250
+#EXTINF:-1,HU: RTL Spike
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8251
+#EXTINF:-1,HU: RTL Klub HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8252
+#EXTINF:-1,HU: RTL II HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8253
+#EXTINF:-1,HU: RTL GOLD HU
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8254
+#EXTINF:-1,HU: RTL
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8255
+#EXTINF:-1,HU: Nickelodeon Europe
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8256
+#EXTINF:-1,HU: Nick Jr
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8257
+#EXTINF:-1,HU: National Geo HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8258
+#EXTINF:-1,HU: Nat Geo Wild HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8259
+#EXTINF:-1,HU: HISTORY HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8265
+#EXTINF:-1,HU: HBO2
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8266
+#EXTINF:-1,HU: HBO HD (HU)
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8267
+#EXTINF:-1,HU: HBO 3 HU
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8268
+#EXTINF:-1,HU: Eurosport HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8269
+#EXTINF:-1,HU: Eurosport 2 HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8270
+#EXTINF:-1,HU: DunaWorld
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8271
+#EXTINF:-1,HU: Duna HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8272
+#EXTINF:-1,HU: Discovery Channel
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8273
+#EXTINF:-1,HU: DIGI Sport 3 HU
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8274
+#EXTINF:-1,HU: Digi Sport 2 HD HU
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8275
+#EXTINF:-1,HU: Digi Sport 1 HD HU
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8276
+#EXTINF:-1,HU: DIGI Film HU
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8277
+#EXTINF:-1,HU: Animal Planet HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/8278
+#EXTINF:-1,==== USA / UK ====
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/117
+#EXTINF:-1,USA/UK: ABN TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/116
+#EXTINF:-1,USA/UK: Al Jazeera
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/68
+#EXTINF:-1,USA/UK: TV One
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/115
+#EXTINF:-1,USA/UK: Animal Planet
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/114
+#EXTINF:-1,USA/UK: Baby TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/113
+#EXTINF:-1,USA/UK: BBC 1
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/67
+#EXTINF:-1,USA/UK: BBC 2
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/66
+#EXTINF:-1,USA/UK: BBC World News
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/63
+#EXTINF:-1,USA/UK: BT Sport 3
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/34
+#EXTINF:-1,USA/UK: BT Sport ESPN
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/33
+#EXTINF:-1,USA/UK: BT Sport Extra 2
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/32
+#EXTINF:-1,USA/UK: BT Sport Extra 3
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/31
+#EXTINF:-1,USA/UK: Bloomberg
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/111
+#EXTINF:-1,USA/UK: TBN
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/110
+#EXTINF:-1,USA/UK: CBS Reality
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/59
+#EXTINF:-1,USA/UK: Channel 5
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/108
+#EXTINF:-1,USA/UK: Chelsea TV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/30
+#EXTINF:-1,USA/UK: CNN
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/58
+#EXTINF:-1,USA/UK: STV
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/107
+#EXTINF:-1,USA/UK: Discovery Channel
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/106
+#EXTINF:-1,USA/UK: E!
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/102
+#EXTINF:-1,USA/UK: RT Documentary HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/101
+#EXTINF:-1,USA/UK: Red Bull TV FHD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/100
+#EXTINF:-1,USA/UK: ESPN
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/99
+#EXTINF:-1,USA/UK: EUROSPORT 1
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/97
+#EXTINF:-1,USA/UK: EUROSPORT 2
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/96
+#EXTINF:-1,USA/UK: FIGHT
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/95
+#EXTINF:-1,USA/UK: Food Network
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/94
+#EXTINF:-1,USA/UK: FOX News
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/54
+#EXTINF:-1,USA/UK: FOX Sports 1
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/93
+#EXTINF:-1,USA/UK: FOX Sports 2
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/92
+#EXTINF:-1,USA/UK: Satellite TVSports Golf
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/91
+#EXTINF:-1,USA/UK: Satellite TVMovies SciFi & Horror
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/38
+#EXTINF:-1,USA/UK: Discovery Science
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/89
+#EXTINF:-1,USA/UK: iTV 1
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/53
+#EXTINF:-1,USA/UK: iTV 2
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/52
+#EXTINF:-1,USA/UK: iTV 3
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/51
+#EXTINF:-1,USA/UK: iTV 4
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/50
+#EXTINF:-1,USA/UK: LifeTime
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/88
+#EXTINF:-1,USA/UK: Satellite TVCinema Family
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/86
+#EXTINF:-1,USA/UK: Fox HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/85
+#EXTINF:-1,USA/UK: Satellite TVSports Action HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/28
+#EXTINF:-1,USA/UK: Nat Geo Wild
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/84
+#EXTINF:-1,USA/UK: Nat Geo People HD
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/83
+#EXTINF:-1,USA/UK: NBC
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/56
+#EXTINF:-1,USA/UK: Nick Jr.
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/80
+#EXTINF:-1,USA/UK: Nickelodeon
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/79
+#EXTINF:-1,USA/UK: Racing UK
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/77
+#EXTINF:-1,USA/UK: Satellite TVMovies Disney
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/45
+#EXTINF:-1,USA/UK: Satellite TVMovies Drama
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/44
+#EXTINF:-1,USA/UK: Satellite TVMovies Family
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/43
+#EXTINF:-1,USA/UK: SyFy
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/39
+#EXTINF:-1,USA/UK: ABC
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/73
+#EXTINF:-1,USA/UK: TLC
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/72
+#EXTINF:-1,USA/UK: VH1 UK/USA
+http://195.181.161.111:25461/7nuczltVqm/jv6zoOsVlh/71

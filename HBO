@@ -1,55 +1,83 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="Sport",FOX Sport HD 1
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oIw8LSy.jpg" group-title="Kids",America's Funniest Videos
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xDGoG1r.jpg" group-title="Movies",The Film Detective
 https://distro.akamaized.net/indexfd_1280x720.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/Twkovic.gif" group-title="News",Newsmax | Youtube
 https://www.youtube.com/watch?v=kJ8K6KN5I1o
+
 #EXTINF:0 tvg-language="English" tvg-country="US" tvg-logo="https://i.imgur.com/GBIoooY.jpg" tvg-name="BLOOMBERG" tvg-id="BLOOMBERG" group-title="News",EN: BLOOMBERG US HD
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+
 #EXTINF:0 tvg-name="Redbull TV" tvg-language="English" tvg-country="US" tvg-id="Redbull-TV" tvg-logo="https://i.imgur.com/iFNScQ6.png" group-title="Sports",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+
 #EXTINF:0 tvg-name="Buzzr" tvg-language="English" tvg-country="US" tvg-id="Buzzr" tvg-logo="https://i.imgur.com/DiENZs9.png" group-title="Entertainment",Buzzr
 https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
+
 #EXTINF:0 tvg-name="CBS NEWS 1" tvg-language="English" tvg-country="US" tvg-id="CBS_NEWS1" tvg-logo="https://i.imgur.com/ltyaQPAm.png" group-title="News",CBS NEWS 2
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+
 #EXTINF:0 tvg-name="Krem2 (CBS)" tvg-language="English" tvg-country="US" tvg-id="Krem2" tvg-logo="https://i.imgur.com/dv9D0qy.jpg" group-title="News",Krem2
 https://krem-lh.akamaihd.net/i/KREM_Shows_1@99141/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://sonyvueimgs.akamaized.net/epg-images/channel/26591/cheddar_news_440x330_NETWORK_LARGE_440_330.png" group-title="News",Cheddar Big News
 https://live.chdrstatic.com/cbn/primary/1.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://image.xumo.com/v1/providers/provider/230/300x300.png?type=color_onBlack" group-title="",ConTV
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1280x720_2108000/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/vMMR55y.png" group-title="Legislative",DC Council Channel
 http://video.oct.dc.gov/out/u/15_12.m3u8
+
 #EXTINF:0 tvg-name="7News Boston" tvg-language="English" tvg-country="US" tvg-id="7News_Boston" tvg-logo="https://i.imgur.com/gtsioES.png" group-title="News",7News (Boston)
 https://svc-lvanvato-cxtv-whbq.cmgvideo.com/whbq/2564k/index.m3u8
+
 #EXTINF:0 tvg-name="aljazeera" tvg-language="English" tvg-id="aljazeera" tvg-logo="https://i.imgur.com/fLuRbYi.jpg" group-title="News",Aljazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
 #EXTINF:0 tvg-name="Miami TV" tvg-language="English" tvg-country="US" tvg-id="Miami-TV" tvg-logo="https://i.imgur.com/KYZZDPP.png" group-title="News",Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w30480388_b2592000.m3u8
+
 #EXTINF:0 tvg-language="English" tvg-country="DE" tvg-logo="https://www.dw.com/cssi/dwlogo-print.gif" group-title="News",EN: DW Well
 https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8?sd=10&rebase=on
+
 #EXTINF:-1 tvg-id="California Music Channel(CMTV)-US" tvg-name="California Music Channel(CMTV)-US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cmc-cali-tv.png" group-title="Music",California Music Channel
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://sport-tv-guide.live/images/tv-station-tv5-monde-pacific-nz-1533.png" group-title="",TV5Monde Pacifique
 https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/TmFWn79.png" group-title="",TV5Monde Info
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/TmFWn79.png" group-title="",TV5Monde Info
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/TmFWn79.png" group-title="",TV5Monde Pacifique
 https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
+
 #EXTINF:-1 tvg-language="English" tvg-country="US",AMG
 https://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
 #EXTINF:-1,Thailand: CTB
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+
 #EXTINF:-1,Thailand: Drama Thai
 https://edge2a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/chunklist.m3u8
+
 #EXTINF:-1,Thailand: M Channel
 http://203.151.83.104:1935/tdlive/tdlivest/chunklist_1024p.m3u8
+
 #EXTINF:-1,Thailand: MCOT 30
 http://183.182.100.184/live/mcothd/playlist.m3u8
+
 #EXTINF:-1,Thailand: MCOT HD
 http://live.pjmcdn.info/live/MCOT-HD.stream/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Sport",FOX Sport HD 1
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8

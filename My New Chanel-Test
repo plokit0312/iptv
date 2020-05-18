@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,TV5
+http://43.245.34.2:9000/live/TV5KH.m3u8
+#EXTINF:-1,TV3
+http://43.245.34.2:9000/live/TV3KH.m3u8
+#EXTINF:-1,TV9
+http://43.245.34.2:9000/live/TV9KH.m3u8

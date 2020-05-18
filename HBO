@@ -1,176 +1,202 @@
 #EXTM3U
 #PLAYLIST:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO 2 FHD H265
-http://p2prime.xyz:80/1000011/1000011/14130?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO 2 FHD²
-http://p2prime.xyz:80/1000011/1000011/9085?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO 2 FULLHD
-http://vipeiptv.com:25461/emerson1/emerson1/758060?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO 2 HD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/174?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO 2 HD
-http://vipeiptv.com:25461/emerson1/emerson1/758059?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO 2 HD²
-http://p2prime.xyz:80/1000011/1000011/9084?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO 2 HD¹
-http://p2prime.xyz:80/1000011/1000011/14135?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO 2 SD
-http://p2prime.xyz:80/1000011/1000011/9086?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO 2 SD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/173?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO 2 SD
-http://vipeiptv.com:25461/emerson1/emerson1/758058?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO 2 SD¹
-http://p2prime.xyz:80/1000011/1000011/26426?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO EXTREME FULLHD
-http://vipeiptv.com:25461/emerson1/emerson1/758150?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO EXTREME HD
-http://vipeiptv.com:25461/emerson1/emerson1/758149?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO EXTREME SD
-http://vipeiptv.com:25461/emerson1/emerson1/758148?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO FAMILY FHD H265
-http://p2prime.xyz:80/1000011/1000011/14131?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO FAMILY FHD²
-http://p2prime.xyz:80/1000011/1000011/9071?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO FAMILY FULLHD
-http://vipeiptv.com:25461/emerson1/emerson1/758063?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO FAMILY HD
-http://vipeiptv.com:25461/emerson1/emerson1/758062?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO FAMILY HD²
-http://p2prime.xyz:80/1000011/1000011/9082?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO FAMILY HD¹
-http://p2prime.xyz:80/1000011/1000011/14136?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO FAMILY SD
-http://vipeiptv.com:25461/emerson1/emerson1/758061?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO FAMILY SD
-http://p2prime.xyz:80/1000011/1000011/9083?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO FAMILY SD¹
-http://p2prime.xyz:80/1000011/1000011/26427?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO FHD H265
-http://p2prime.xyz:80/1000011/1000011/14129?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO FHD²
-http://p2prime.xyz:80/1000011/1000011/9081?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO FULLHD
-http://vipeiptv.com:25461/emerson1/emerson1/758057?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Family H265
-http://panel.restpremium.cf:8080/serverbr/0392332904/63877?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Family HD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/177?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Family SD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/176?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO HD
-http://vipeiptv.com:25461/emerson1/emerson1/758056?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO HD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/171?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO HD²
-http://p2prime.xyz:80/1000011/1000011/9080?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO HD¹
-http://p2prime.xyz:80/1000011/1000011/14134?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO MUNDI FHD H265
-http://p2prime.xyz:80/1000011/1000011/14183?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO MUNDI FHD²
-http://p2prime.xyz:80/1000011/1000011/9049?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO MUNDI FULLHD
-http://vipeiptv.com:25461/emerson1/emerson1/758147?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO MUNDI HD
-http://vipeiptv.com:25461/emerson1/emerson1/758146?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO MUNDI HD¹
-http://p2prime.xyz:80/1000011/1000011/14186?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO MUNDI SD
-http://vipeiptv.com:25461/emerson1/emerson1/758145?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO MUNDI SD¹
-http://p2prime.xyz:80/1000011/1000011/26432?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Mundi HD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/194?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Mundi SD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/193?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO PLUS FHD H265
-http://p2prime.xyz:80/1000011/1000011/14132?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO PLUS FHD²
-http://p2prime.xyz:80/1000011/1000011/9078?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO PLUS FULLHD
-http://vipeiptv.com:25461/emerson1/emerson1/758066?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO PLUS HD
-http://vipeiptv.com:25461/emerson1/emerson1/758065?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO PLUS HD²
-http://p2prime.xyz:80/1000011/1000011/9077?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO PLUS HD¹
-http://p2prime.xyz:80/1000011/1000011/14137?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO PLUS SD
-http://vipeiptv.com:25461/emerson1/emerson1/758064?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO PLUS SD
-http://p2prime.xyz:80/1000011/1000011/9079?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO PLUS SD¹
-http://p2prime.xyz:80/1000011/1000011/26428?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO POP FHD H265
-http://p2prime.xyz:80/1000011/1000011/14184?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO POP FULLHD
-http://vipeiptv.com:25461/emerson1/emerson1/758141?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO POP HD
-http://vipeiptv.com:25461/emerson1/emerson1/758140?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO POP HD¹
-http://p2prime.xyz:80/1000011/1000011/14187?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO POP SD
-http://vipeiptv.com:25461/emerson1/emerson1/758139?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO POP SD¹
-http://p2prime.xyz:80/1000011/1000011/26431?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Plus HD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/179?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Plus SD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/178?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Plus*e HD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/181?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Plus*e SD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/180?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Pop HD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/200?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Pop SD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/199?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO SD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/170?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO SD
-http://p2prime.xyz:80/1000011/1000011/9087?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO SD
-http://vipeiptv.com:25461/emerson1/emerson1/758055?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO SD¹
-http://p2prime.xyz:80/1000011/1000011/26425?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO SIGNATURE FHD H265
-http://p2prime.xyz:80/1000011/1000011/14133?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO SIGNATURE FHD²
-http://p2prime.xyz:80/1000011/1000011/9073?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO SIGNATURE FULLHD
-http://vipeiptv.com:25461/emerson1/emerson1/758069?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO SIGNATURE HD
-http://vipeiptv.com:25461/emerson1/emerson1/758068?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO SIGNATURE HD²
-http://p2prime.xyz:80/1000011/1000011/9072?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO SIGNATURE HD¹
-http://p2prime.xyz:80/1000011/1000011/14138?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO SIGNATURE SD
-http://vipeiptv.com:25461/emerson1/emerson1/758067?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO SIGNATURE SD
-http://p2prime.xyz:80/1000011/1000011/9074?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO SIGNATURE SD¹
-http://p2prime.xyz:80/1000011/1000011/26429?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Signature HD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/183?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Signature SD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/182?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO XTREME FHD H265
-http://p2prime.xyz:80/1000011/1000011/14185?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO XTREME FHD²
-http://p2prime.xyz:80/1000011/1000011/9006?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO XTREME HD²
-http://p2prime.xyz:80/1000011/1000011/9047?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO XTREME HD¹
-http://p2prime.xyz:80/1000011/1000011/14188?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO XTREME SD¹
-http://p2prime.xyz:80/1000011/1000011/26430?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Xtreme HD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/196?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Xtreme SD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/195?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO+ H265
-http://panel.restpremium.cf:8080/serverbr/0392332904/63879?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TW" tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="Movies",HBO Asia
-http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF" tvg-logo="https://i.imgur.com/VSqdZ8D.png" group-title="Undefined",RTA Sport (New!)
+http://212.47.252.54/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Art Sport 1 FHD AL
+http://uiptv.dyndns.tv:8000/Germany1/Germany1/76910?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Art Sport 1 FHD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/76910.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Art Sport 2 FHD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/76911.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Art Sport 2 FHD AL
+http://uiptv.dyndns.tv:8000/Germany1/Germany1/76911?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Art Sport 3 FHD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/76912.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Art Sport 3 FHD AL
+http://uiptv.dyndns.tv:8000/Germany1/Germany1/76912?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",EuroSport 2 FHD AL
+http://uiptv.dyndns.tv:8000/Germany1/Germany1/76898?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",EuroSport 2 FHD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/76898.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",K Sport 1 HD AL
+http://uiptv.dyndns.tv:8000/Germany1/Germany1/8371?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",K Sport 1 HD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/8371.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",K Sport 2 HD AL
+http://uiptv.dyndns.tv:8000/Germany1/Germany1/8370?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",K Sport 2 HD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/8370.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",K Sport 4 HD AL
+http://uiptv.dyndns.tv:8000/Germany1/Germany1/63777?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",K Sport 4 HD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/63777.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",K sport 3 HD AL
+http://uiptv.dyndns.tv:8000/Germany1/Germany1/63776?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",K sport 3 HD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/63776.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="http://127.0.0.1/" group-title="Sport",RTSH Sport
+http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",RTSH Sport FHD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/76899.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",RTSH Sport FHD AL
+http://uiptv.dyndns.tv:8000/Germany1/Germany1/76899?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",RTSH Sports HD AL
+http://uiptv.dyndns.tv:8000/Germany1/Germany1/33457?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",RTSH Sports HD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/33457.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Super Sport 1 FHD AL
+http://uiptv.dyndns.tv:8000/Germany1/Germany1/76916?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Super Sport 1 FHD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/76916.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Super Sport 1 HD
+http://195.181.161.119:80/k6CFPu0MKu/7xk0jQLl3A/197?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Super Sport 1 HD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/76900.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Super Sport 1 HD AL
+http://uiptv.dyndns.tv:8000/Germany1/Germany1/2225?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Super Sport 1 HD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/2225.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Super Sport 1 HD AL
+http://uiptv.dyndns.tv:8000/Germany1/Germany1/76900?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Super Sport 2 FHD AL
+http://uiptv.dyndns.tv:8000/Germany1/Germany1/76917?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Super Sport 2 FHD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/76917.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Super Sport 2 FHD AL
+http://uiptv.dyndns.tv:8000/Germany1/Germany1/76901?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Super Sport 2 FHD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/76901.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Super Sport 2 HD
+http://195.181.161.119:80/k6CFPu0MKu/7xk0jQLl3A/196?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Super Sport 2 HD AL
+http://uiptv.dyndns.tv:8000/Germany1/Germany1/2226?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Super Sport 2 HD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/2226.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Super Sport 3 FHD AL
+http://uiptv.dyndns.tv:8000/Germany1/Germany1/76918?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Super Sport 3 FHD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/76918.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Super Sport 3 HD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/2227.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Super Sport 3 HD AL
+http://uiptv.dyndns.tv:8000/Germany1/Germany1/76902?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Super Sport 3 HD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/76902.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Super Sport 3 HD AL
+http://uiptv.dyndns.tv:8000/Germany1/Germany1/2227?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Super Sport 4 FHD AL
+http://uiptv.dyndns.tv:8000/Germany1/Germany1/76919?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Super Sport 4 HD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/2224.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Super Sport 4 HD AL
+http://uiptv.dyndns.tv:8000/Germany1/Germany1/76903?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Super Sport 4 HD AL
+http://uiptv.dyndns.tv:8000/Germany1/Germany1/2224?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Super Sport 5 HD AL
+http://uiptv.dyndns.tv:8000/Germany1/Germany1/2771?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Super Sport 5 HD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/2771.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Super Sport 6 FHD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/76921.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Super Sport 6 FHD AL
+http://uiptv.dyndns.tv:8000/Germany1/Germany1/76921?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Super Sport 7 FHD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/76922.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Super Sport 7 FHD AL
+http://uiptv.dyndns.tv:8000/Germany1/Germany1/76922?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Super Sport Kosova 1 FHD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/76913.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Super Sport Kosova 1 FHD AL
+http://uiptv.dyndns.tv:8000/Germany1/Germany1/76913?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Super Sport Kosova 2 FHD AL
+http://uiptv.dyndns.tv:8000/Germany1/Germany1/76914?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Super Sport Kosova 2 FHD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/76914.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Super Sport Kosova 2 HD AL
+http://uiptv.dyndns.tv:8000/Germany1/Germany1/33456?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Super Sport Kosova 2 HD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/33456.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Super Sport Kosova 3 FHD AL
+http://uiptv.dyndns.tv:8000/Germany1/Germany1/76915?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Super Sport Kosova 3 FHD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/76915.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",SuperSport 1 HD AL
+http://uiptv.dyndns.tv:8000/Germany1/Germany1/8350?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",SuperSport 1 HD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/8350.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",TRING SPORT 3 HD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/2761.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",TRING SPORT 3 HD AL
+http://uiptv.dyndns.tv:8000/Germany1/Germany1/2761?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",TRING SPORT 4 HD AL
+http://uiptv.dyndns.tv:8000/Germany1/Germany1/2760?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",TRING SPORT 4 HD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/2760.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Tring Sport 1 FHD AL
+http://uiptv.dyndns.tv:8000/Germany1/Germany1/76906?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Tring Sport 1 FHD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/76906.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Tring Sport 1 HD AL
+http://uiptv.dyndns.tv:8000/Germany1/Germany1/2763?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Tring Sport 1 HD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/2763.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Tring Sport 2 HD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/2762.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Tring Sport 2 HD AL
+http://uiptv.dyndns.tv:8000/Germany1/Germany1/2762?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Tring Sport 3 FHD AL
+http://uiptv.dyndns.tv:8000/Germany1/Germany1/76908?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Tring Sport 3 FHD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/76908.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" group-title="Sport",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BH" tvg-logo="https://i.imgur.com/G9BMhDS.png" group-title="Sport",Bahrain Sport 1
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1558393494&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BH" tvg-logo="https://i.imgur.com/G9BMhDS.png" group-title="Sport",Bahrain Sport 1
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1548640033&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BH" tvg-logo="https://i.imgur.com/G9BMhDS.png" group-title="Sport",Bahrain Sport 2
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",ELEVEN SPORTS
+http://tvpro.millenium-ott.com:25443/NDAULogUgpvMa/ikAE4zQjND/48135?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",ELEVEN SPORTS 2
+http://tvpro.millenium-ott.com:25443/NDAULogUgpvMa/ikAE4zQjND/48134?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",VOO SPORT 1 FHD
+http://tvpro.millenium-ott.com:25443/NDAULogUgpvMa/ikAE4zQjND/70226?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",VOO SPORT WORLD 2 FHD
+http://tvpro.millenium-ott.com:25443/NDAULogUgpvMa/ikAE4zQjND/70227?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",VOO SPORT WORLD 3 FHD
+http://tvpro.millenium-ott.com:25443/NDAULogUgpvMa/ikAE4zQjND/70228?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",Voo Sport 1 FHD
+http://iptv8.premium-stv.com:2052/sourc@@ebelgiquepro1/557873030/1896?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",Voo Sport World 1 FHD
+http://iptv8.premium-stv.com:2052/sourc@@ebelgiquepro1/557873030/1898?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="Sport",ALL Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND SPORTS FHD H265
+http://p2prime.xyz:80/1000011/1000011/14098?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND SPORTS FHD²
+http://p2prime.xyz:80/1000011/1000011/8968?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND SPORTS FULLHD
+http://vipeiptv.com:25461/emerson1/emerson1/758261?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND SPORTS HD
+http://vipeiptv.com:25461/emerson1/emerson1/758260?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND SPORTS HD²
+http://p2prime.xyz:80/1000011/1000011/8969?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND SPORTS HD¹
+http://p2prime.xyz:80/1000011/1000011/14099?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND SPORTS SD
+http://vipeiptv.com:25461/emerson1/emerson1/758259?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Band Sports HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/28?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Band Sports SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/27?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ESPORTE INTERATIVO *
+http://vipeiptv.com:25461/emerson1/emerson1/758238?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ESPORTE INTERATIVO HD *
+http://vipeiptv.com:25461/emerson1/emerson1/758239?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/k29sgDw.png" group-title="Sport",Esporte Interativo Plus
+https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/index-f2-v1-a1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FOX SPORT HD
+http://vipeiptv.com:25461/emerson1/emerson1/758245?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FOX SPORTS 2 FHD H265
+http://p2prime.xyz:80/1000011/1000011/14110?checkedby:iptvcat.com

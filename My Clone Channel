@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oIw8LSy.jpg" group-title="Kids",America's Funniest Videos
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oIw8LSy.jpg" group-title="KIDSs",America's Funniest Videos
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xDGoG1r.jpg" group-title="Movies",The Film Detective
@@ -29,6 +29,7 @@ https://live.chdrstatic.com/cbn/primary/1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://image.xumo.com/v1/providers/provider/230/300x300.png?type=color_onBlack" group-title="",ConTV
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1280x720_2108000/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/vMMR55y.png" group-title="Legislative",DC Council Channel
 http://video.oct.dc.gov/out/u/15_12.m3u8
 
@@ -89,10 +90,10 @@ https://wusa-lh.akamaihd.net/i/WUSA_Breaking_1@98930/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Fashion",Models Inc.
 https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Kids",3ABN KIDS TV
+#EXTINF:0 tvg-id="ext" group-title="KIDSs",3ABN KIDSS TV
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 
-#EXTINF:0 tvg-id="BABYFIRST.sp" group-title="Kids",Baby First
+#EXTINF:0 tvg-id="BABYFIRST.sp" group-title="KIDSs",Baby First
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Legislative",DC Council Channel
@@ -205,7 +206,7 @@ http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6793?checkedby:iptvcat.co
 #EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/ANDh44D.png" group-title="Sport",Do Channel
 https://edge1a.v2h-cdn.com/appt3/DoChannel.stream_720p/chunklist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="TH" tvg-logo="" group-title="Cambodia",ETV KHMER
+#EXTINF:0 tvg-country="TH" tvg-logo="" group-title="CAMBODIA",ETV KHMER
 http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6868?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="TH" tvg-logo="" group-title="Movie",FOX HD
@@ -241,10 +242,10 @@ http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TH" tvg-logo="" group-title="Sport",NationThai HD
 http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6754?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="TH" tvg-logo="" group-title="Cambodia",CTN KHMER
+#EXTINF:0 tvg-country="TH" tvg-logo="" group-title="CAMBODIA",CTN KHMER
 http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6865?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="TH" tvg-logo="" group-title="Cambodia",MY TV KHMER
+#EXTINF:0 tvg-country="TH" tvg-logo="" group-title="CAMBODIA",MY TV KHMER
 http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6867?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-id="ext" group-title="24/7 OLYMPICS",Olympic Channel 1 (UHD)
@@ -299,7 +300,7 @@ http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="CAMBODIA",Bayon TV News
 http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="CAMBODIA",Cambodia TV
+#EXTINF:0 tvg-id="ext" group-title="CAMBODIA",CAMBODIA TV
 https://livefta.malimarcdn.com/ftaedge00/malimarkhlive.stream/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="CAMBODIA",CNC News
@@ -465,7 +466,7 @@ http://stream.jletv.cn/live/fff4632e84194739805546e86a829581?fmt=h264_500k_flv
 #EXTINF:0 tvg-id="ext" group-title="CHINA",JLE TV Jilin (Opt-2)
 http://stream.jletv.cn/live/fff4632e84194739805546e86a829581?fmt=h264_800k_flv
 
-#EXTINF:0 tvg-id="ext" group-title="CHINA",Kaku Kids TV (New!)
+#EXTINF:0 tvg-id="ext" group-title="CHINA",Kaku KIDSs TV (New!)
 http://223.110.242.130:6610/cntv/live1/kakukaton/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="CHINA",Max Financial Media
@@ -561,7 +562,7 @@ http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
 #EXTINF:0 tvg-id="WABCNewYorkABCEast.us" group-title="AUSTRALIA",ABC
 https://i.mjh.nz/au/Brisbane/tv.101002410241.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="AUSTRALIA",ABC Kids
+#EXTINF:0 tvg-id="ext" group-title="AUSTRALIA",ABC KIDSs
 https://i.mjh.nz/au/Brisbane/tv.101002210222.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="AUSTRALIA",ABC Me
@@ -993,9 +994,9 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8?checkedby:iptvc
 http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Alkuwait Plus Movies
-https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/kwmedia/kwtvkids_1080p/chunks.m3u8?v=2957056943&checkedby:iptvcat.com
+https://kwmedia.hibridmedia.com/kwmedia/kwtvKIDSs_dabr/kwmedia/kwtvKIDSs_1080p/chunks.m3u8?v=2957056943&checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Kids",DORAEMON MOVIE
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="KIDSs",DORAEMON MOVIE
 http://ws.flv.nimo.tv/live/su1599512427578r00bac8d56488f6ca2d6915fb95ab88e8_high.flv?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Movie",Filmrise Movies
@@ -1072,6 +1073,256 @@ http://livecdnh1.tvanywhere.ae:80/hls/star_movies/index.m3u8?checkedby:iptvcat.c
 
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",star_movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/01.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Sport",SPORTV 3 FHD²
+http://p2prime.xyz:80/alexandro/alexandro/8985
+
+
+#EXTINF:0 tvg-id="ext" group-title="Sport",COMBATE FHD²
+http://p2prime.xyz:80/alexandro/alexandro/8978
+
+#EXTINF:0 tvg-id="ext" group-title="Sport",BAND SPORTS FHD²
+http://p2prime.xyz:80/alexandro/alexandro/8968
+
+#EXTINF:0 tvg-id="ext" group-title="KIDS",BOOMERANG FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14239
+
+#EXTINF:0 tvg-id="ext" group-title="BRAZIL",CANAL BRASIL FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14195
+
+#EXTINF:0 tvg-id="ext" group-title="BRAZIL",CANCAO NOVA FHD¹
+http://p2prime.xyz:80/alexandro/alexandro/9219
+#EXTINF:0 tvg-id="ext" group-title="KIDS",CARTOON NETWORK FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14241
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",CARTOON NETWORK FHD²
+http://p2prime.xyz:80/alexandro/alexandro/9121
+
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",CINEMAX FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14197
+
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",COMEDY CENTRAL FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14303
+
+#EXTINF:0 tvg-id="ext" group-title="BRAZIL",CURTA!  FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14307
+
+#EXTINF:0 tvg-id="ext" group-title="DISCOVERY",DISCOVERY CHANNEL FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14266
+
+
+#EXTINF:0 tvg-id="ext" group-title="DISCOVERY",DISCOVERY CIVILIZATOR FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14270
+
+#EXTINF:0 tvg-id="ext" group-title="DISCOVERY",DISCOVERY HOME & HEALTH FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14272
+
+#EXTINF:0 tvg-id="ext" group-title="KIDS",DISCOVERY KIDS FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14243
+
+#EXTINF:0 tvg-id="ext" group-title="DISCOVERY",DISCOVERY SCIENCE FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14269
+
+#EXTINF:0 tvg-id="ext" group-title="DISCOVERY",DISCOVERY THEATER FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14267
+
+#EXTINF:0 tvg-id="ext" group-title="DISCOVERY",DISCOVERY TURBO FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14265
+
+#EXTINF:0 tvg-id="ext" group-title="DISCOVERY",DISCOVERY WORLD FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14268
+
+#EXTINF:0 tvg-id="ext" group-title="KIDS",DISNEY CHANNEL FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14245
+
+#EXTINF:0 tvg-id="ext" group-title="KIDS",DISNEY JUNIOR FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14247
+
+#EXTINF:0 tvg-id="ext" group-title="KIDS",DISNEY XD FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14249
+
+#EXTINF:0 tvg-id="ext" group-title="KIDS",DOG TV FHD²
+http://p2prime.xyz:80/alexandro/alexandro/9110
+
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",E! FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/9257
+
+#EXTINF:0 tvg-id="ext" group-title="SPORT",ESPN FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14101
+
+#EXTINF:0 tvg-id="ext" group-title="SPORT",ESPN 2 FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14102
+
+#EXTINF:0 tvg-id="ext" group-title="SPORT",ESPN BRASIL FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14103
+
+#EXTINF:0 tvg-id="ext" group-title="SPORT",ESPN EXTRA FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14104
+
+#EXTINF:0 tvg-id="ext" group-title="SPORT",FOX SPORTS FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14109
+
+#EXTINF:0 tvg-id="ext" group-title="SPORT",FOX SPORTS 2 FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14110
+
+#EXTINF:0 tvg-id="ext" group-title="DISCOVERY",FISH FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14113
+
+#EXTINF:0 tvg-id="ext" group-title="FOOD",FOOD NETWORK FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14309
+
+#EXTINF:0 tvg-id="ext" group-title="KIDS",FOX FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14199
+
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",FOX LIFE FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14201
+
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",FOX PREMIUM 1 FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14203
+
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",FOX PREMIUM 2 FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14205
+
+#EXTINF:0 tvg-id="ext" group-title="DISCOVERY",FUTURA FHD¹
+http://p2prime.xyz:80/alexandro/alexandro/8871
+
+#EXTINF:0 tvg-id="ext" group-title="KIDS",FX FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14207
+
+#EXTINF:0 tvg-id="ext" group-title="WETHER",GLOBO SP FHD²
+http://p2prime.xyz:80/alexandro/alexandro/13835
+
+#EXTINF:0 tvg-id="ext" group-title="HISTORY",H2 FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14281
+
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",HBO FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14129
+
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",HBO 2 FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14130
+
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",HBO FAMILY FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14131
+
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",HBO PLUS FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14132
+
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",HBO SIGNATURE FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14133
+
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",HBO MUNDI FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14183
+
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",HBO XTREME FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14185
+
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",HBO POP FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14184
+
+#EXTINF:0 tvg-id="ext" group-title="HISTORY",HISTORY CHANNEL FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14282
+
+#EXTINF:0 tvg-id="ext" group-title="DISCOVERY",ID - INVESTIGAÇÃO DISCOVERY FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14271
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",LIFETIME FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14313
+
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",MEGAPIX FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14211
+
+#EXTINF:0 tvg-id="ext" group-title="MUSIC",MTV FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14333
+
+#EXTINF:0 tvg-id="ext" group-title="MUSIC",MTV LIVE FHD²
+http://p2prime.xyz:80/alexandro/alexandro/9137
+
+#EXTINF:0 tvg-id="ext" group-title="FUNNY",MULTISHOW FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14335
+
+#EXTINF:0 tvg-id="ext" group-title="ANIMAL",NAT GEO KIDS FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14255
+
+#EXTINF:0 tvg-id="ext" group-title="NATGEOGRAPHIC",NAT GEO WILD FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14286
+
+#EXTINF:0 tvg-id="ext" group-title="NHK",NHK HD²
+http://p2prime.xyz:80/alexandro/alexandro/8890
+
+#EXTINF:0 tvg-id="ext" group-title="KIDS",NICK JUNIOR FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14257
+
+#EXTINF:0 tvg-id="nickelod-hd" group-title="KIDS",NICKELODEON FHD
+http://p2prime.xyz:80/alexandro/alexandro/11119
+
+#EXTINF:0 tvg-id="ext" group-title="LANDSCAP VIEW",OFF FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14115
+
+#EXTINF:0 tvg-id="ext" group-title="SONY",SONY FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14217
+
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",SONY FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14217
+
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",SPACE FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14219
+
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",STUDIO UNIVERSAL FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14221
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",SYFY FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14223
+
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",TNT FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14229
+
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",TNT SERIES FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14231
+
+#EXTINF:0 tvg-id="ext" group-title="KIDS",NICKELODEON FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14259
+
+#EXTINF:0 tvg-id="ext" group-title="KIDS",TOONCAST FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14261
+
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",UNIVERSAL CHANNEL FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14233
+
+#EXTINF:0 tvg-id="ext" group-title="MUSICS",VH1 MEGAHITS FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14337
+
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",WARNER CHANNEL FHD H265
+http://p2prime.xyz:80/alexandro/alexandro/14235
+
+#EXTINF:0 tvg-id="ext" group-title="KIDS",ZOOMO FHD²
+http://p2prime.xyz:80/alexandro/alexandro/11111
+
+#EXTINF:0 tvg-id="ext" group-title="FASHION",FASHION TV FHD²
+http://p2prime.xyz:80/alexandro/alexandro/11103
+
+#EXTINF:0 tvg-id="ext" group-title="ANIMAL",ANIMAL PLANET 4K
+http://p2prime.xyz:80/alexandro/alexandro/11082
+
+#EXTINF:0 tvg-id="ext" group-title="DISCOVERY",DISCOVERY CHANNEL 4K
+http://p2prime.xyz:80/alexandro/alexandro/11086
+
+#EXTINF:0 tvg-id="ext" group-title="SPORT",FOX SPORTS 4K
+http://p2prime.xyz:80/alexandro/alexandro/11084
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

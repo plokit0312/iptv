@@ -6,13 +6,13 @@ http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6813?checkedby:iptvcat.co
 #EXTINF:-1,tvg-country="TH"  tvg-logo= "https://site-assets.mediaoxide.com/workpointtv/2019/07/10034534/wp23-_500x261.jpg” group-title="THAILAND", Workpoint HD
 http://122.155.205.9/live/workpoint.stream/chunklist_w87001385.m3u8
 
-#EXTINF:0 tvg-country="TH" tvg-logo=" https://www.weblakorn.com/wp-content/uploads/2016/06/LOGO-3-3HD.png" group-title="THAILAND",THAI 3 HD
+#EXTINF:0 tvg-country="TH" tvg-logo="https://www.weblakorn.com/wp-content/uploads/2016/06/LOGO-3-3HD.png" group-title="THAILAND",THAI 3 HD
 http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6811?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="TH" tvg-logo=" https://vignette.wikia.nocookie.net/logopedia/images/8/8b/Tv5hd12018.png/revision/latest?cb=20190731175213" group-title="THAILAND",THAI 5 HD
+#EXTINF:0 tvg-country="TH" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8b/Tv5hd12018.png/revision/latest?cb=20190731175213" group-title="THAILAND",THAI 5 HD
 http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6812?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="TH" tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR3FKljTy4hUIf00yQeigIh44Ylp_pVxJUFITPVu1Jfgda1Bs-x&usqp=CAU" group-title="THAILAND",TV5Thai HD
+#EXTINF:0 tvg-country="TH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR3FKljTy4hUIf00yQeigIh44Ylp_pVxJUFITPVu1Jfgda1Bs-x&usqp=CAU" group-title="THAILAND",TV5Thai HD
 http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6748?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/QZ2WcZl.jpg" group-title="THAILAND",NBT Bangkok HD

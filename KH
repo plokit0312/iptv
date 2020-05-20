@@ -18,8 +18,6 @@ http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6871?checkedby:iptvcat.co
 http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6774?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TH" tvg-logo="" group-title="Undefined",Amarin-TVThai HD
 http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6761?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TH" tvg-logo="" group-title="Undefined",BAYON HD KHMER
-http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6866?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TH" tvg-logo="" group-title="Undefined",BLUE SKY CHANNEL HD
 http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6800?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TH" tvg-logo="" group-title="Undefined",BRIAN TV
@@ -30,8 +28,6 @@ http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6873?checkedby:iptvcat.co
 http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6775?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TH" tvg-logo="" group-title="Undefined",Bright TV
 http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6915?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TH" tvg-logo="" group-title="Undefined",CAMBODIA TV
-http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6862?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TH" tvg-logo="" group-title="Undefined",CH8Thai   HD
 http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6759?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TH" tvg-logo="" group-title="Undefined",CVA HMONG FRESNO
@@ -142,14 +138,10 @@ http://live.pjmcdn.info/live/mono29.stream/playlist.m3u8?checkedby:iptvcat.com
 http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/8876?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TH" tvg-logo="" group-title="Undefined",MONO29 HD
 http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/8875?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TH" tvg-logo="" group-title="Undefined",MSJ TV KHMER
-http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6864?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TH" tvg-logo="" group-title="Undefined",MV LAO
 http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6831?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/CYnK9C9.jpg" group-title="Undefined",MVTV Major Mix
 https://edge1a.v2h-cdn.com/appt7/Mix_major.stream_720p/chunklist_w670261144.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TH" tvg-logo="" group-title="Undefined",MY TV KHMER
-http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6867?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TH" tvg-logo="" group-title="Undefined",MYANMAR CHANNEL 7
 http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6887?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TH" tvg-logo="" group-title="Undefined",MYANMAR Channel K

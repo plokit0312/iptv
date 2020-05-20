@@ -27,7 +27,7 @@ http://live.prd.go.th:1935/live/ch9_L.sdp/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="LA" tvg-logo="https://i.malimarcdn.com/ningtvHDF.jpg" group-title="LAO",NING TV
 http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6851?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="LA" tvg-logo=" https://i.malimarcdn.com/ohmuanglaoliveHDF.jpg" group-title="LAO",OH MUANG LAO HD
+#EXTINF:0 tvg-country="LA" tvg-logo="https://i.malimarcdn.com/ohmuanglaoliveHDF.jpg" group-title="LAO",OH MUANG LAO HD
 http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6797?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/CQYsYBM.png" group-title="THAILAND",ONE HD

@@ -1,10 +1,34 @@
 #EXTM3U
 
-#EXTINF:0 tvg-country="KH" tvg-logo="https://i.imgur.com/6p0TK7e.png" group-title="CAMBODIA”,Fresh News TV HD
+#EXTINF:0 tvg-country="KH" tvg-logo="https://i.imgur.com/6p0TK7e.png" group-title=“CAMBODIA”,Fresh News TV HD
 http://167.99.65.12:1935/live/ngrp:myStream_all/chunklist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="KH" tvg-logo=“https://4.bp.blogspot.com/-koqb32zUJyI/V12Su5AaOeI/AAAAAAAAAIU/IMa2Oycv2TQVBSrPTkhdjBxVhhGqjpwYQCLcB/w1200-h630-p-k-no-nu/CTN%2BKhmer%2BTV%2BOnline.jpg"group-title=“CAMBODIA”,CTN KHMER
+#EXTINF:0 tvg-country="KH" tvg-logo="https://www.clipartmax.com/png/small/248-2485429_ctn-cambodia-logo.png"group-title="CAMBODIA",CTN KHMER
 http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6865?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="KH" tvg-logo="https://3.bp.blogspot.com/-lw-9GteRh1I/XDLe57K7AII/AAAAAAAAAM8/XNGK7U2mfqsxjQzSY-n3p6XlF6WfE9-WACLcBGAs/s1600/hang-meas-hdtv-channel.png" group-title="CAMBODIA",ហង្សមាស HDTV
 http://malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w1027189411_b1800000_sleng.m3u8
+
+#EXTINF:0 tvg-country="KH" tvg-logo=“https://cambodia.mom-rsf.org/uploads/tx_lfrogmom/media/13-400_import.png”group-title="CAMBODIA",MYTV
+http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6867?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="KH" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a5/Tv9cambodiaHDTV.png/revision/latest/scale-to-width-down/340?cb=20191208065712" group-title="CAMBODIA",TV9
+http://203.176.130.123:8989/live/ctv9_480k.stream/playlist.m3u8
+
+#EXTINF:0 tvg-country="KH" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQF8FK-Wc9KDng/company-logo_200_200/0?e=2159024400&v=beta&t=-CIgJQKWyAvThV5_Y6Pc6QDvRW5Rq8jAPzPnRibhZ9w" group-title="CAMBODIA",PNN
+http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8
+
+#EXTINF:0 tvg-country=“KH”tvg-logo="https://i.malimarcdn.com/kh/seanewsHDF.jpg" group-title="CAMBODIA",SEA TV
+http://203.176.130.123:8989/live/seatv_480k.stream/playlist.m3u8
+
+#EXTINF:0 tvg-country="KH" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/TV_Kampuchea.jpg/revision/latest?cb=20170317174601" group-title="CAMBODIA",TVK
+http://203.176.130.123:8989/live/tvk_480k.stream/playlist.m3u8
+
+#EXTINF:0 tvg-country="KH" tvg-logo="https://lh3.googleusercontent.com/proxy/Sny76d01NlQbviY4LYjVAKJWQjJjI-8BC6OTHE8WEBcL3I0fpWUa7XQAk3MFpa53Zl95pW7j0o42fQM68t3GMds8Y9vnTQpR0vTCpNOwBBwtNg" group-title="CAMBODIA",រស្មីហង្សមាស HDTV Meas (HD)
+http://malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist_w642883468_b1800000_sleng.m3u8
+
+#EXTINF:0 tvg-country="KH" tvg-logo= https://i.malimarcdn.com/kh/tv5HDF.jpg" group-title="CAMBODIA" បុស្ត៏លេខ ៥ TV5
+http://203.176.130.123:8989/live/tv5_480k.stream/chunklist_w1090105408.m3u8
+
+#EXTINF:0 tvg-country="KH" tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRppUtlh94e5Ar8wwrIXrkCwqZNc5R6FOV9uAymw3sQ_Ypo7oXn&usqp=CAU"group-title="CAMBODIA",ទូរទស្សន៏ Apsara TV
+http://203.176.130.123:8989/live/apsaratv_480k.stream/playlist.m3u8

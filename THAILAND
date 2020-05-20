@@ -1,8 +1,9 @@
-#EXTM3U
-#EXTINF:0 tvg-country="TH" tvg-logo=" https://mpng.subpng.com/20180403/uyq/kisspng-thailand-channel-7-royal-thai-army-radio-and-telev-7-5ac36a97016729.1557616615227562470058.jpg " group-title=“THAILAND”,THAI 7 HD
+Thailand Channel
+
+#EXTINF:0 tvg-country="TH" tvg-logo=" https://sites.google.com/site/ponpsk9548/_/rsrc/1468890152592/home/-7-hd/BBTVChannel7_LogoHD.png?height=287&width=400" group-title=“THAILAND”,THAI 7 HD
 http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6813?checkedby:iptvcat.com
 
-#EXTINF:-1,tvg-country=“TH” tvg-logo= https://obs.line-scdn.net/0hEYVaKXPZGnZrGDHDKctlIVFOGRlYdAl1Dy5LdTd2REITfV4lAHdQQ0dPExUWIV0oBS5WE0kcAUcVKQkmUHhQ group-title=“THAILAND”: Workpoint HD
+#EXTINF:-1,tvg-country=“TH” tvg-logo=“https://site-assets.mediaoxide.com/workpointtv/2019/07/10034534/wp23-_500x261.jpg” group-title=“THAILAND”,Workpoint HD
 http://122.155.205.9/live/workpoint.stream/chunklist_w87001385.m3u8
 
 #EXTINF:0 tvg-country="TH" tvg-logo=" https://media.nationthailand.com/images/news/2019/08/01/30374042/800_8a6835c51eded6a.jpg?v=1564639267" group-title="THAILAND",THAI 3 HD
@@ -17,10 +18,10 @@ http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6748?checkedby:iptvcat.co
 #EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/QZ2WcZl.jpg" group-title="THAILAND",NBT Bangkok HD
 http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/Eds4E6G.png" group-title="Undefined",MONO 29 HD
+#EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/Eds4E6G.png" group-title="THAILAND",MONO 29 HD
 http://live.pjmcdn.info/live/mono29.stream/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/Glr0CJE.png" group-title="Undefined",NBT Central
+#EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/Glr0CJE.png" group-title="THAILAND",NBT Central
 http://live.prd.go.th:1935/live/ch9_L.sdp/chunklist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="LA" tvg-logo=" https://i.malimarcdn.com/ningtvHDF.jpg" group-title="LAO",NING TV
@@ -38,7 +39,7 @@ https://edge1a.v2h-cdn.com/appt7/MediaOnline.stream_720p/chunklist.m3u8?checkedb
 #EXTINF:0 tvg-country="TH" tvg-logo=" https://www.alphame.co.th/wp-content/uploads/2018/02/AMARIN.png" group-title="THAILAND",AMARIN 34 HD
 http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6798?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="TH" tvg-logo="" group-title="Undefined",BLUE SKY CHANNEL HD
+#EXTINF:0 tvg-country="TH" tvg-logo="" group-title="THAILAND",BLUE SKY CHANNEL HD
 http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6800?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="TH" tvg-logo=" https://c7.uihere.com/files/416/823/646/costa-rica-flag-of-tunisia-flag-of-turkey-thai-thailand-flags-icon-png.jpg" group-title="THAILAND",NEWS 18

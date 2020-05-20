@@ -24,7 +24,7 @@ http://live.pjmcdn.info/live/mono29.stream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/Glr0CJE.png" group-title="THAILAND",NBT Central
 http://live.prd.go.th:1935/live/ch9_L.sdp/chunklist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="LA" tvg-logo=" https://i.malimarcdn.com/ningtvHDF.jpg" group-title="LAO",NING TV
+#EXTINF:0 tvg-country="LA" tvg-logo="https://i.malimarcdn.com/ningtvHDF.jpg" group-title="LAO",NING TV
 http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6851?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="LA" tvg-logo=" https://i.malimarcdn.com/ohmuanglaoliveHDF.jpg" group-title="LAO",OH MUANG LAO HD
@@ -38,9 +38,6 @@ https://edge1a.v2h-cdn.com/appt7/MediaOnline.stream_720p/chunklist.m3u8?checkedb
 
 #EXTINF:0 tvg-country="TH" tvg-logo=" https://www.alphame.co.th/wp-content/uploads/2018/02/AMARIN.png" group-title="THAILAND",AMARIN 34 HD
 http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6798?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="TH" tvg-logo="https://f0.pngfuel.com/png/513/515/flag-of-thailand-flag-of-turkey-flag-png-clip-art.png" group-title="THAILAND",BLUE SKY CHANNEL HD
-http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6800?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="TH" tvg-logo="https://c7.uihere.com/files/416/823/646/costa-rica-flag-of-tunisia-flag-of-turkey-thai-thailand-flags-icon-png.jpg" group-title="THAILAND",NEWS 18
 http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6800?checkedby:iptvcat.com

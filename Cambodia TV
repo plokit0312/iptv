@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:0 tvg-country="KH" tvg-logo="https://i.imgur.com/6p0TK7e.png" group-title="CAMBODIA”,Fresh News TV HD
+http://167.99.65.12:1935/live/ngrp:myStream_all/chunklist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="TH" tvg-logo=“https://bit.ly/2XfHLKy"group-title=“CAMBODIA”,CTN KHMER
+http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6865?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="KH" tvg-logo="https://3.bp.blogspot.com/-lw-9GteRh1I/XDLe57K7AII/AAAAAAAAAM8/XNGK7U2mfqsxjQzSY-n3p6XlF6WfE9-WACLcBGAs/s1600/hang-meas-hdtv-channel.png" group-title="CAMBODIA",ហង្សមាស HDTV
+http://malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w1027189411_b1800000_sleng.m3u8

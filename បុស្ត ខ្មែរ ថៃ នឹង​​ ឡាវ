@@ -116,3 +116,6 @@ https://edge2a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-country="TH" tvg-logo="https://i.pinimg.com/736x/2b/a2/7f/2ba27fd9f64e633d9373423ecbfc3fc4.jpg" group-title="បុស្តថៃ",CTB
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+
+#EXTINF:0 tvg-country="KH" tvg-logo="https://i.imgur.com/6p0TK7e.png" group-title=“បុស្តខ្មែរ”,Fresh News TV HD
+http://167.99.65.12:1935/live/ngrp:myStream_all/chunklist.m3u8?checkedby:iptvcat.com

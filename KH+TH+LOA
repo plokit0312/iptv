@@ -45,9 +45,6 @@ http://live.pjmcdn.info/live/CH8.stream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/ANDh44D.png" group-title=“បុស្តថៃ”,Do Channel
 https://edge1a.v2h-cdn.com/appt3/DoChannel.stream_720p/chunklist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="TH" tvg-logo="https://lh3.googleusercontent.com/proxy/WrFlhGLZKhffswUeymdsbXLORfXG49d_xB85x-elrElNta4qVYnJYzRtKM-Na8LWnz9zVSGoE7s" group-title="FOX",FOX HD THAILAND
-http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/8872?checkedby:iptvcat.com
-
 #EXTINF:0 tvg-country="TH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/One_31_Logo.png" group-title=“បុស្តថៃ”,GMM ONE HD
 http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6799?checkedby:iptvcat.com
 
@@ -82,9 +79,6 @@ http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6797?checkedby:iptvcat.co
 
 #EXTINF:0 tvg-country="TH" tvg-logo="https://lh3.googleusercontent.com/proxy/WrFlhGLZKhffswUeymdsbXLORfXG49d_xB85x-elrElNta4qVYnJYzRtKM-Na8LWnz9zVSGoE7s" group-title="បុស្តថៃ",FOX HD THAILAND
 http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/8872?checkedby:iptvcat.com
-
-
-#EXTM3U
 
 #EXTINF:0 tvg-country="KH" tvg-logo="https://i.imgur.com/6p0TK7e.png" group-title=“បុស្តខ្មែរ”,Fresh News TV HD
 http://167.99.65.12:1935/live/ngrp:myStream_all/chunklist.m3u8?checkedby:iptvcat.com

@@ -3,7 +3,7 @@
 #EXTINF:0 tvg-country="TH" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/10/1b6b5ad2-a97c-4935-886a-bc6c60073f67.png" group-title=“បុស្តថៃ”,THAI 7 HD
 http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6813?checkedby:iptvcat.com
 
-#EXTINF:-1,tvg-country="TH" tvg-logo="https://site-assets.mediaoxide.com/workpointtv/2019/07/10034534/wp23-_500x261.jpg” group-title=“បុស្តថៃ”, Workpoint HD
+#EXTINF:-1 tvg-country="TH" tvg-logo="https://site-assets.mediaoxide.com/workpointtv/2019/07/10034534/wp23-_500x261.jpg” group-title=“បុស្តថៃ”, Workpoint HD
 http://122.155.205.9/live/workpoint.stream/chunklist_w87001385.m3u8
 
 #EXTINF:0 tvg-country="TH" tvg-logo="https://www.weblakorn.com/wp-content/uploads/2016/06/LOGO-3-3HD.png" group-title=“បុស្តថៃ”,THAI 3 HD

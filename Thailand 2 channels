@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,tvg-id="TH" tvg-logo="https://www.wiseknow.com/wp-content/uploads/2019/01/OHULMIA834T7PGN_webTVBThai1.jpg" group-title=“THAILAND”, DRAMA THAI
+#EXTINF:-1,tvg-country="TH" tvg-logo="https://www.wiseknow.com/wp-content/uploads/2019/01/OHULMIA834T7PGN_webTVBThai1.jpg" group-title="THAILAND", DRAMA THAI
 https://edge2a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/chunklist.m3u8
-#EXTINF:-1,Thailand: CTB tvg-logo=“https://i.pinimg.com/736x/2b/a2/7f/2ba27fd9f64e633d9373423ecbfc3fc4.jpg" group title=“THAILAND”,CTB
+#EXTINF:-1,tvg-country="TH" tvg-logo="https://i.pinimg.com/736x/2b/a2/7f/2ba27fd9f64e633d9373423ecbfc3fc4.jpg" group-title="THAILAND",CTB
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 

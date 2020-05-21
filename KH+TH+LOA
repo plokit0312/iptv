@@ -56,8 +56,6 @@ http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6977?checkedby:iptvcat.co
 
 #EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/QTCQ4uT.jpg" group-title=“បុស្តថៃ”,MCOT HD
 http://live.pjmcdn.info/live/MCOT-HD.stream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/KEbokdx.jpg" group-title=“បុស្តថៃ”,M Channel
-http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6977?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="TH"tvg-logo="https://i.imgur.com/7KVr5UN.png" group-title=“បុស្តថៃ”,69 TV (Lao HD)
 https://edge1a.v2h-cdn.com/appt7/MediaOnline.stream_720p/chunklist.m3u8?checkedby:iptvcat.com

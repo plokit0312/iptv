@@ -59,3 +59,29 @@ http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6977?checkedby:iptvcat.co
 
 #EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/QTCQ4uT.jpg" group-title="THAILAND",MCOT HD
 http://live.pjmcdn.info/live/MCOT-HD.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/KEbokdx.jpg" group-title="THAILAND",M Channel
+http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6977?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="TH"tvg-logo="https://i.imgur.com/7KVr5UN.png" group-title="THAILAND",69 TV (Lao HD)
+https://edge1a.v2h-cdn.com/appt7/MediaOnline.stream_720p/chunklist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="TH" tvg-logo="" group-title="THAILAND",GOOD IDEA TV USA HD
+http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6796?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="TH" tvg-logo="https://i.malimarcdn.com/laomuslimtvHDF.jpg" group-title="បុស្តឡាវ",DDTV
+http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6793?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="TH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBb1wjGLJ0HHwthuTnnxAl6jDClQgtQVvfTUcEIj2F3JPrZhBC&usqp=CAU" group-title="បុស្តឡាវ",AIR TV HD
+http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6833?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="LA" tvg-logo="https://i.malimarcdn.com/ningtvHDF.jpg" group-title="បុស្តឡាវ",NING TV
+http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6851?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="TH" tvg-logo="https://i.malimarcdn.com/ohmuanglaoliveHDF.jpg" group-title="LAO",OH MUANG LAO HD
+http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6797?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="TH" tvg-logo="https://lh3.googleusercontent.com/proxy/WrFlhGLZKhffswUeymdsbXLORfXG49d_xB85x-elrElNta4qVYnJYzRtKM-Na8LWnz9zVSGoE7s" group-title="បុស្តថៃ",FOX HD THAILAND
+http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/8872?checkedby:iptvcat.com
+
+
+

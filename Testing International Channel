@@ -160,7 +160,7 @@ https://ott-live.olympicchannel.com/out/u/OC4_2.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="24/7 OLYMPICS",Olympic Channel 4 (UHD)
 https://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="24/7 OLYMPICS",Olympic Channel 5 (HD)
+#EXTINF:0 tvg-id="ext"tvg-logo="https://www.nortex.com/wp-content/uploads/2017/09/oc-share-preview.jpg" group-title="24/7 OLYMPICS",Olympic Channel 5 (HD)
 https://ott-live.olympicchannel.com/out/u/OC5_2.m3u8
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="24/7 OLYMPICS",Olympic Channel 5 (UHD)

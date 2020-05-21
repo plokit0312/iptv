@@ -111,7 +111,7 @@ http://203.176.130.123:8989/live/tv5_480k.stream/chunklist_w1090105408.m3u8
 #EXTINF:0 tvg-country="KH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRppUtlh94e5Ar8wwrIXrkCwqZNc5R6FOV9uAymw3sQ_Ypo7oXn&usqp=CAU"group-title="បុស្តខ្មែរ",ទូរទស្សន៏ Apsara TV
 http://203.176.130.123:8989/live/apsaratv_480k.stream/playlist.m3u8
 
-#EXTINF:-1,tvg-country="TH" tvg-logo="https://www.wiseknow.com/wp-content/uploads/2019/01/OHULMIA834T7PGN_webTVBThai1.jpg" group-title="បុស្តថៃ", DRAMA THAI (TVB)
+#EXTINF:-1 tvg-country="TH" tvg-logo="https://www.wiseknow.com/wp-content/uploads/2019/01/OHULMIA834T7PGN_webTVBThai1.jpg" group-title="បុស្តថៃ", DRAMA THAI (TVB)
 https://edge2a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/chunklist.m3u8
-#EXTINF:-1,tvg-country="TH" tvg-logo="https://i.pinimg.com/736x/2b/a2/7f/2ba27fd9f64e633d9373423ecbfc3fc4.jpg" group-title="បុស្តថៃ",CTB
+#EXTINF:-1 tvg-country="TH" tvg-logo="https://i.pinimg.com/736x/2b/a2/7f/2ba27fd9f64e633d9373423ecbfc3fc4.jpg" group-title="បុស្តថៃ",CTB
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8

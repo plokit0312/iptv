@@ -76,7 +76,7 @@ https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u
 #EXTINF:0 tvg-id="ext"tvg-logo="https://3abn.org/img/logos/tv/3ABN-Kids.png" group-title="បុស្តកុមារ",3ABN KIDSS TV
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 
-#EXTINF:0 tvg-id="BABYFIRST.sp" group-title="បុស្តកុមារ",Baby First
+#EXTINF:0 tvg-id="BABYFIRST.sp" tvg-logo="https://banner2.cleanpng.com/20181109/icl/kisspng-clip-art-babyfirsttv-television-channel-babyfirst-babyfirst-wikipedia-lobster-house-5be5b50f0566b7.6279683815417807510221.jpg"group-title="បុស្តកុមារ",Baby First
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Discovery",Escambia County TV
@@ -433,14 +433,8 @@ https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
 #EXTINF:0 tvg-country="TW" tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="បុស្ត ភាពយន្តអន្តរជាតិល្បីៗ",HBO Asia
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="BR" tvg-logo="https://skytvplanos.com.br/img/channels/lg-272-canal-hbo-2-hd.png" group-title="បុស្ត ភាពយន្តអន្តរជាតិល្បីៗ",HBO 2 FULLHD
-http://vipeiptv.com:25461/emerson1/emerson1/758060?checkedby:iptvcat.com
-
 #EXTINF:0 tvg-country="BR" tvg-logo="https://skytvplanos.com.br/img/channels/lg-272-canal-hbo-2-hd.png" group-title="បុស្ត ភាពយន្តអន្តរជាតិល្បីៗ",HBO 2 HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/174?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="BR" tvg-logo="https://skytvplanos.com.br/img/channels/lg-272-canal-hbo-2-hd.png" group-title="បុស្ត ភាពយន្តអន្តរជាតិល្បីៗ",HBO 2 HD
-http://vipeiptv.com:25461/emerson1/emerson1/758059?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="បុស្ត ភាពយន្តអន្តរជាតិល្បីៗ",HBO EXTREME FULLHD
 http://vipeiptv.com:25461/emerson1/emerson1/758150?checkedby:iptvcat.com
